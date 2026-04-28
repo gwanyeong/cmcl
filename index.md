@@ -3,7 +3,7 @@
 
 # Welcome to the CMCL group!
 
-The Computational Materials Chemistry Laboratory (CMCL) at Incheon National University focuses on the rational design of advanced materials for energy and environmental applications. We address key challenges in energy materials, catalysis, optoelectronics, and quantum materials through AI-augmented multi-scale modeling and simulation.
+The Computational Materials Chemistry Laboratory (CMCL) at Incheon National University focuses on the rational design of advanced materials for energy and environmental applications. We address key challenges in energy materials, catalysis, optoelectronics, and quantum materials through AI-augmented multi-scale modeling and simulation.  
 
 {% include section.html %}
 
