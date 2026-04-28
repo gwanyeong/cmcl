@@ -7,11 +7,10 @@ The Computational Materials Chemistry Laboratory (CMCL) at Incheon National Univ
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use computational tools to understand and design materials, including electronic materials, ionic conductors for energy storage, and heterogeneous (electro)catalysts.
+
 
 {%
   include button.html
@@ -34,7 +33,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our latest research in materials design, digital discovery, and algorithm developments.
+
 
 {%
   include button.html
@@ -59,8 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+test
 {%
   include button.html
   link="team"
