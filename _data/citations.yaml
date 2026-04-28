@@ -280,3 +280,544 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/adma.201404707
+  title: "Highly Sensitive and Selective Liquid\u2010Phase Sensors Based on a Solvent\u2010\
+    Resistant Organic\u2010Transistor Platform"
+  authors:
+  - Moo Yeol Lee
+  - Hyeong Jun Kim
+  - Gwan Yeong Jung
+  - "A\u2010Reum Han"
+  - Sang Kyu Kwak
+  - Bumjoon J. Kim
+  - Joon Hak Oh
+  publisher: Advanced Materials
+  date: '2015-01-12'
+  link: https://doi.org/f2x6gr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsnano.5b00786
+  title: Monolayer-Precision Synthesis of Molybdenum Sulfide Nanoparticles and Their
+    Nanoscale Size Effects in the Hydrogen Evolution Reaction
+  authors:
+  - Bora Seo
+  - Gwan Yeong Jung
+  - Young Jin Sa
+  - Hu Young Jeong
+  - Jae Yeong Cheon
+  - Jeong Hyeon Lee
+  - Ho Young Kim
+  - Jin Chul Kim
+  - Hyeon Suk Shin
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: ACS Nano
+  date: '2015-03-26'
+  link: https://doi.org/f7bxnr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms9294
+  title: Direct exfoliation and dispersion of two-dimensional materials in pure water
+    via temperature control
+  authors:
+  - Jinseon Kim
+  - Sanghyuk Kwon
+  - Dae-Hyun Cho
+  - Byunggil Kang
+  - Hyukjoon Kwon
+  - Youngchan Kim
+  - Sung O. Park
+  - Gwan Yeong Jung
+  - Eunhye Shin
+  - Wan-Gu Kim
+  - Hyungdong Lee
+  - Gyeong Hee Ryu
+  - Minseok Choi
+  - Tae Hyeong Kim
+  - Junghoon Oh
+  - Sungjin Park
+  - Sang Kyu Kwak
+  - Suk Wang Yoon
+  - Doyoung Byun
+  - Zonghoon Lee
+  - Changgu Lee
+  publisher: Nature Communications
+  date: '2015-09-15'
+  link: https://doi.org/f7vjm8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.inorgchem.5b02874
+  title: "Exploration of Gate-Opening and Breathing Phenomena in a Tailored Flexible\
+    \ Metal\u2013Organic Framework"
+  authors:
+  - Sung-min Hyun
+  - Jae Hwa Lee
+  - Gwan Yeong Jung
+  - Yun Kyeong Kim
+  - Tae Kyung Kim
+  - Sungeun Jeoung
+  - Sang Kyu Kwak
+  - Dohyun Moon
+  - Hoi Ri Moon
+  publisher: Inorganic Chemistry
+  date: '2016-01-28'
+  link: https://doi.org/f8cd77
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.nanolett.6b00870
+  title: "COF-Net on CNT-Net as a Molecularly Designed, Hierarchical Porous Chemical\
+    \ Trap for Polysulfides in Lithium\u2013Sulfur Batteries"
+  authors:
+  - JongTae Yoo
+  - Sung-Ju Cho
+  - Gwan Yeong Jung
+  - Su Hwan Kim
+  - Keun-Ho Choi
+  - Jeong-Hoon Kim
+  - Chang Kee Lee
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Nano Letters
+  date: '2016-04-28'
+  link: https://doi.org/f8nkg5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adfm.201602734
+  title: "Janus\u2010Faced, Dual\u2010Conductive/Chemically Active Battery Separator\
+    \ Membranes"
+  authors:
+  - "Yeon\u2010Su Oh"
+  - Gwan Yeong Jung
+  - "Jeong\u2010Hoon Kim"
+  - "Jung\u2010Hwan Kim"
+  - Su Hwan Kim
+  - Sang Kyu Kwak
+  - "Sang\u2010Young Lee"
+  publisher: Advanced Functional Materials
+  date: '2016-09-07'
+  link: https://doi.org/f3rc7q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nanoen.2016.12.037
+  title: Significance of ferroelectric polarization in poly (vinylidene difluoride)
+    binder for high-rate Li-ion diffusion
+  authors:
+  - Woo-Jin Song
+  - Se Hun Joo
+  - Do Hyeong Kim
+  - Chihyun Hwang
+  - Gwan Yeong Jung
+  - Sohyeon Bae
+  - Yeonguk Son
+  - Jaephil Cho
+  - Hyun-Kon Song
+  - Sang Kyu Kwak
+  - Soojin Park
+  - Seok Ju Kang
+  publisher: Nano Energy
+  date: '2017-02-01'
+  link: https://doi.org/f9xsx4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.nanolett.6b04830
+  title: Polysulfide-Breathing/Dual-Conductive, Heterolayered Battery Separator Membranes
+    Based on 0D/1D Mingled Nanomaterial Composite Mats
+  authors:
+  - Jeong-Hoon Kim
+  - Gwan Yeong Jung
+  - Yong-Hyeok Lee
+  - Jung-Hwan Kim
+  - Sun-Young Lee
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Nano Letters
+  date: '2017-03-28'
+  link: https://doi.org/f9vwfm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.electacta.2017.08.166
+  title: Graphene-wrapped Porous Sb Anodes for Sodium-Ion Batteries by Mechanochemical
+    Compositing and Metallomechanical Reduction of Sb2O3
+  authors:
+  - Chihyun Hwang
+  - Sinho Choi
+  - Gwan Yeong Jung
+  - Juchan Yang
+  - Sang Kyu Kwak
+  - Soojin Park
+  - Hyun-Kon Song
+  publisher: Electrochimica Acta
+  date: '2017-10-01'
+  link: https://doi.org/gcgh97
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jiec.2017.08.035
+  title: "Reaction characteristics of Ni\u2013Al nanolayers by molecular dynamics\
+    \ simulation"
+  authors:
+  - Gwan Yeong Jung
+  - Woo Cheol Jeon
+  - Sukbin Lee
+  - Sang-Hyun Jung
+  - Soo Gyeong Cho
+  - Sang Kyu Kwak
+  publisher: Journal of Industrial and Engineering Chemistry
+  date: '2018-01-01'
+  link: https://doi.org/gcwpvj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C7NR08161H
+  title: Preferential horizontal growth of tungsten sulfide on carbon and insight
+    into active sulfur sites for the hydrogen evolution reaction
+  authors:
+  - Bora Seo
+  - Gwan Yeong Jung
+  - Jae Hyung Kim
+  - Tae Joo Shin
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: Nanoscale
+  date: '2018-01-01'
+  link: https://doi.org/gfx69b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/smll.201802191
+  title: "Edge\u2010Terminated MoS<sub>2</sub> Nanoassembled Electrocatalyst via In\
+    \ Situ Hybridization with 3D Carbon Network"
+  authors:
+  - Dong Young Chung
+  - Ji Mun Yoo
+  - Subin Park
+  - Gwan Yeong Jung
+  - Jin Soo Kang
+  - "Chi\u2010Yeong Ahn"
+  - Sang Kyu Kwak
+  - "Yung\u2010Eun Sung"
+  publisher: Small
+  date: '2018-08-10'
+  link: https://doi.org/gd2nd6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-06147-8
+  title: Chiral self-sorted multifunctional supramolecular biocoordination polymers
+    and their applications in sensors
+  authors:
+  - Xiaobo Shang
+  - Inho Song
+  - Gwan Yeong Jung
+  - Wanuk Choi
+  - Hiroyoshi Ohtsu
+  - Jeong Hyeon Lee
+  - Jin Young Koo
+  - Bo Liu
+  - Jaeyong Ahn
+  - Masaki Kawano
+  - Sang Kyu Kwak
+  - Joon Hak Oh
+  publisher: Nature Communications
+  date: '2018-09-26'
+  link: https://doi.org/gfch82
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acscatal.8b01725
+  title: Correlation of Low-Index Facets to Active Sites in Micrometer-Sized Polyhedral
+    Pyrochlore Electrocatalyst
+  authors:
+  - Joohyuk Park
+  - Manabu Shirai
+  - Gwan Yeong Jung
+  - Sung O Park
+  - Minjoon Park
+  - Jaechan Ryu
+  - Sang Kyu Kwak
+  - Jaephil Cho
+  publisher: ACS Catalysis
+  date: '2018-09-07'
+  link: https://doi.org/gfjtw8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsami.8b13517
+  title: Highly Enantioselective Graphene-Based Chemical Sensors Prepared by Chiral
+    Noncovalent Functionalization
+  authors:
+  - Xiaobo Shang
+  - Cheol Hee Park
+  - Gwan Yeong Jung
+  - Sang Kyu Kwak
+  - Joon Hak Oh
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2018-10-01'
+  link: https://doi.org/gfg4j9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C8EE01503A
+  title: Monolithic heterojunction quasi-solid-state battery electrolytes based on
+    thermodynamically immiscible dual phases
+  authors:
+  - Sung-Ju Cho
+  - Gwan Yeong Jung
+  - Su Hwan Kim
+  - Minchul Jang
+  - Doo-Kyung Yang
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Energy &amp; Environmental Science
+  date: '2019-01-01'
+  link: https://doi.org/gj7d28
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acscatal.8b03446
+  title: "Heterogeneous Co\u2013N/C Electrocatalysts with Controlled Cobalt Site Densities\
+    \ for the Hydrogen Evolution Reaction: Structure\u2013Activity Correlations and\
+    \ Kinetic Insights"
+  authors:
+  - Young Jin Sa
+  - Sung O Park
+  - Gwan Yeong Jung
+  - Tae Joo Shin
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: ACS Catalysis
+  date: '2018-11-21'
+  link: https://doi.org/hbzpqz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adfm.201806937
+  title: "Carbon\u2010Nanotube\u2010Cored Cobalt Porphyrin as a 1D Nanohybrid Strategy\
+    \ for High\u2010Performance Lithium\u2010Ion Battery Anodes"
+  authors:
+  - Kihun Jeong
+  - "Ju\u2010Myung Kim"
+  - Su Hwan Kim
+  - Gwan Yeong Jung
+  - JongTae Yoo
+  - "Seung\u2010Hyeok Kim"
+  - Sang Kyu Kwak
+  - "Sang\u2010Young Lee"
+  publisher: Advanced Functional Materials
+  date: '2019-02-28'
+  link: https://doi.org/gfv5cf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-09339-y
+  title: "In-situ local phase-transitioned MoSe2 in La0.5Sr0.5CoO3-\u03B4 heterostructure\
+    \ and stable overall water electrolysis over 1000 hours"
+  authors:
+  - Nam Khen Oh
+  - Changmin Kim
+  - Junghyun Lee
+  - Ohhun Kwon
+  - Yunseong Choi
+  - Gwan Yeong Jung
+  - Hyeong Yong Lim
+  - Sang Kyu Kwak
+  - Guntae Kim
+  - Hyesung Park
+  publisher: Nature Communications
+  date: '2019-04-12'
+  link: https://doi.org/hbzpq2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jacs.9b00543
+  title: Solvent-Free, Single Lithium-Ion Conducting Covalent Organic Frameworks
+  authors:
+  - Kihun Jeong
+  - Sodam Park
+  - Gwan Yeong Jung
+  - Su Hwan Kim
+  - Yong-Hyeok Lee
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Journal of the American Chemical Society
+  date: '2019-03-19'
+  link: https://doi.org/ggf9fm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adfm.201901217
+  title: "Ordered Mesoporous Metastable \u03B1\u2010MoC<sub>1\u2212</sub><i><sub>x</sub></i>\
+    \ with Enhanced Water Dissociation Capability for Boosting Alkaline Hydrogen Evolution\
+    \ Activity"
+  authors:
+  - Du San Baek
+  - Gwan Yeong Jung
+  - Bora Seo
+  - Jin Chul Kim
+  - "Hyun\u2010Wook Lee"
+  - Tae Joo Shin
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: Advanced Functional Materials
+  date: '2019-05-10'
+  link: https://doi.org/gm8gfz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsami.9b04653
+  title: Heterochiral Doped Supramolecular Coordination Networks for High-Performance
+    Optoelectronics
+  authors:
+  - Xiaobo Shang
+  - Inho Song
+  - Jeong Hyeon Lee
+  - Wanuk Choi
+  - Hiroyoshi Ohtsu
+  - Gwan Yeong Jung
+  - Jaeyong Ahn
+  - Myeonggeun Han
+  - Jin Young Koo
+  - Masaki Kawano
+  - Sang Kyu Kwak
+  - Joon Hak Oh
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2019-05-02'
+  link: https://doi.org/hbzpq3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.nanolett.9b01334
+  title: Antioxidative Lithium Reservoir Based on Interstitial Channels of Carbon
+    Nanotube Bundles
+  authors:
+  - Seok-Kyu Cho
+  - Gwan Yeong Jung
+  - Keun-Ho Choi
+  - Jiyun Lee
+  - JongTae Yoo
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Nano Letters
+  date: '2019-05-29'
+  link: https://doi.org/hbzpq4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsnano.9b03525
+  title: "Biomimetic Superoxide Disproportionation Catalyst for Anti-Aging Lithium\u2013\
+    Oxygen Batteries"
+  authors:
+  - Chihyun Hwang
+  - JongTae Yoo
+  - Gwan Yeong Jung
+  - Se Hun Joo
+  - Jonghak Kim
+  - Aming Cha
+  - Jung-Gu Han
+  - Nam-Soon Choi
+  - Seok Ju Kang
+  - Sang-Young Lee
+  - Sang Kyu Kwak
+  - Hyun-Kon Song
+  publisher: ACS Nano
+  date: '2019-07-18'
+  link: https://doi.org/hbzpq5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.chemmater.9b02346
+  title: Thermodynamic Control of Amorphous Precursor Phases for Calcium Carbonate
+    via Additive Ions
+  authors:
+  - Gwan Yeong Jung
+  - Eunhye Shin
+  - Ju Hyun Park
+  - Byoung-Young Choi
+  - Seung-Woo Lee
+  - Sang Kyu Kwak
+  publisher: Chemistry of Materials
+  date: '2019-08-27'
+  link: https://doi.org/hbzpq6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acscatal.9b02700
+  title: "Monomeric MoS<sub>4</sub><sup>2\u2013</sup>-Derived Polymeric Chains with\
+    \ Active Molecular Units for Efficient Hydrogen Evolution Reaction"
+  authors:
+  - Bora Seo
+  - Gwan Yeong Jung
+  - Se Jeong Lee
+  - Du San Baek
+  - Young Jin Sa
+  - Hyeong Woo Ban
+  - Jae Sung Son
+  - Kiyoung Park
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: ACS Catalysis
+  date: '2019-12-02'
+  link: https://doi.org/gm8gf7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-14272-1
+  title: "Atomically dispersed Pt\u2013N4 sites as efficient and selective electrocatalysts\
+    \ for the chlorine evolution reaction"
+  authors:
+  - Taejung Lim
+  - Gwan Yeong Jung
+  - Jae Hyung Kim
+  - Sung O Park
+  - Jaehyun Park
+  - Yong-Tae Kim
+  - Seok Ju Kang
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
+  publisher: Nature Communications
+  date: '2020-01-21'
+  link: https://doi.org/gg24g4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/aenm.202000563
+  title: "An Antiaging Electrolyte Additive for High\u2010Energy\u2010Density Lithium\u2010\
+    Ion Batteries"
+  authors:
+  - "Jung\u2010Gu Han"
+  - Chihyun Hwang
+  - Su Hwan Kim
+  - Chanhyun Park
+  - Jonghak Kim
+  - Gwan Yeong Jung
+  - Kyungeun Baek
+  - Sujong Chae
+  - Seok Ju Kang
+  - Jaephil Cho
+  - Sang Kyu Kwak
+  - "Hyun\u2010Kon Song"
+  - "Nam\u2010Soon Choi"
+  publisher: Advanced Energy Materials
+  date: '2020-04-06'
+  link: https://doi.org/ggrgrk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/advs.202000788
+  title: Antiphase Boundaries as Faceted Metallic Wires in 2D Transition Metal Dichalcogenides
+  authors:
+  - Jung Hwa Kim
+  - "Se\u2010Yang Kim"
+  - Sung O. Park
+  - Gwan Yeong Jung
+  - Seunguk Song
+  - Ahrum Sohn
+  - "Sang\u2010Woo Kim"
+  - Sang Kyu Kwak
+  - "Soon\u2010Yong Kwon"
+  - Zonghoon Lee
+  publisher: Advanced Science
+  date: '2020-06-08'
+  link: https://doi.org/hbzpq7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/D0SC02785E
+  title: A single-ion conducting covalent organic framework for aqueous rechargeable
+    Zn-ion batteries
+  authors:
+  - Sodam Park
+  - Imanuel Kristanto
+  - Gwan Yeong Jung
+  - David B. Ahn
+  - Kihun Jeong
+  - Sang Kyu Kwak
+  - Sang-Young Lee
+  publisher: Chemical Science
+  date: '2020-01-01'
+  link: https://doi.org/ghm7qh
+  plugin: sources.py
+  file: sources.yaml
