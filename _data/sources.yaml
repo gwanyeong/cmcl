@@ -22,39 +22,34 @@
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
-  - id: doi:10.1002/adma.201404707
-  - id: doi:10.1021/acsnano.5b00786
-  - id: doi:10.1038/ncomms9294
-  - id: doi:10.1021/acs.inorgchem.5b02874
-  - id: doi:10.1021/acs.nanolett.6b00870
-  - id: doi:10.1002/adfm.201602734
-  - id: doi:10.1016/j.nanoen.2016.12.037
-  - id: doi:10.1021/acs.nanolett.6b04830
-  - id: doi:10.1016/j.electacta.2017.08.166
-  - id: doi:10.1016/j.jiec.2017.08.035
-  - id: doi:10.1039/C7NR08161H
-  - id: doi:10.1002/smll.201802191
-  - id: doi:10.1038/s41467-018-06147-8
-  - id: doi:10.1021/acscatal.8b01725
-  - id: doi:10.1021/acsami.8b13517
-  - id: doi:10.1039/C8EE01503A
-  - id: doi:10.1021/acscatal.8b03446
-  - id: doi:10.1002/adfm.201806937
-  - id: doi:10.1038/s41467-019-09339-y
-  - id: doi:10.1021/jacs.9b00543
-  - id: doi:10.1002/adfm.201901217
-  - id: doi:10.1021/acsami.9b04653
-  - id: doi:10.1021/acs.nanolett.9b01334
-  - id: doi:10.1021/acsnano.9b03525
-  - id: doi:10.1021/acs.chemmater.9b02346
-  - id: doi:10.1021/acscatal.9b02700
-  - id: doi:10.1038/s41467-019-14272-1
-  - id: doi:10.1002/aenm.202000563
-  - id: doi:10.1002/advs.202000788
-  - id: doi:10.1039/D0SC02785E
-
-
-
-
-
+- id: doi:10.1002/adma.201404707
+- id: doi:10.1021/acsnano.5b00786
+- id: doi:10.1038/ncomms9294
+- id: doi:10.1021/acs.inorgchem.5b02874
+- id: doi:10.1021/acs.nanolett.6b00870
+- id: doi:10.1002/adfm.201602734
+- id: doi:10.1016/j.nanoen.2016.12.037
+- id: doi:10.1021/acs.nanolett.6b04830
+- id: doi:10.1016/j.electacta.2017.08.166
+- id: doi:10.1016/j.jiec.2017.08.035
+- id: doi:10.1039/C7NR08161H
+- id: doi:10.1002/smll.201802191
+- id: doi:10.1038/s41467-018-06147-8
+- id: doi:10.1021/acscatal.8b01725
+- id: doi:10.1021/acsami.8b13517
+- id: doi:10.1039/C8EE01503A
+- id: doi:10.1021/acscatal.8b03446
+- id: doi:10.1002/adfm.201806937
+- id: doi:10.1038/s41467-019-09339-y
+- id: doi:10.1021/jacs.9b00543
+- id: doi:10.1002/adfm.201901217
+- id: doi:10.1021/acsami.9b04653
+- id: doi:10.1021/acs.nanolett.9b01334
+- id: doi:10.1021/acsnano.9b03525
+- id: doi:10.1021/acs.chemmater.9b02346
+- id: doi:10.1021/acscatal.9b02700
+- id: doi:10.1038/s41467-019-14272-1
+- id: doi:10.1002/aenm.202000563
+- id: doi:10.1002/advs.202000788
+- id: doi:10.1039/D0SC02785E
 
