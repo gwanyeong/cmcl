@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Computational Materials Chemistry Laboratory
-subtitle: 
+subtitle: @Incheon National University
 description: The Computational Materials Chemistry Laboratory (CMCL) at Incheon National University focuses on the rational design of advanced materials for energy and environmental applications. We address key challenges in energy materials, catalysis, optoelectronics, and quantum materials through AI-augmented multi-scale modeling and simulation.
 header: images/background.jpg
 footer: images/background.jpg
@@ -12,8 +12,6 @@ links:
   orcid: 0000-0001-5867-4575
   google-scholar: kThOHD4AAAAJ
   github: gwanyeong
-  twitter: gwanyeong
-  youtube: gwanyeong
 
 ### jekyll settings
 
