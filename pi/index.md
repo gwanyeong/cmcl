@@ -3,8 +3,7 @@ title: PI
 nav:
   order: 2
   tooltip: Principal Investigator
+redirect_from: /pi/
+redirect_to: /members/gwan-yeong_jung/
+layout: null
 ---
-
-# {% include icon.html icon="fa-solid fa-user-tie" %} Principal Investigator
-
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
