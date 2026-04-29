@@ -5,17 +5,10 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-주요 연구 성과입니다.
 
 {% include button.html icon="fa-brands fa-google" text="Full publication records" link="https://scholar.google.com/citations?user=kThOHD4AAAAJ&hl=en" %}
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html style="rich" %}
 
 {% include section.html %}
 
