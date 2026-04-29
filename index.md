@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the CMCL group!
+# Solving the puzzle of atoms to unveil the hidden logic of materials
 
 The **Computational Materials Chemistry Laboratory (CMCL)** at Incheon National University is dedicated to the rational design of advanced materials for energy and environmental sustainability. By integrating **[first-principles electronic structure calculations (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory)** and **[molecular dynamics (MD)](https://en.wikipedia.org/wiki/Molecular_dynamics)** with cutting-edge **[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)**, we explore the fundamental correlations between atoms, structures, and properties in real-world materials. Our expertise in *multi-scale modeling* allows us to bridge the gap between atomic-scale behavior and real-world physico-chemical phenomena, providing theoretical guidelines that move beyond traditional trial-and-error methods. Currently, we focus on research areas including **energy materials**, **electrocatalysts**, **optoelectronics**, and **quantum materials**. We collaborate extensively with experimentalists to predict, validate, and explain the fundamental mechanisms of novel materials.
 
