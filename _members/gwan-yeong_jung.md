@@ -19,7 +19,7 @@ Dr. Gwan Yeong Jung is an Assistant Professor in the Department of Chemistry at 
 {% include section.html%}
 # Appointments
 **2026.03 ~ present**  
-Assistant Professor, Department of Chemistry, Incheon National University
+Assistant Professor, Department of Chemistry, Incheon National University  
 **2021.09 ~ 2026.02**  
 Postdoc, Department of Mechanical Engineering & Materials Science, Washington University in St. Louis **(Advisor: [Prof. Rohan Mishra](https://mcube.wustl.edu/))**  
 **2020.03 ~ 2021.08**  
