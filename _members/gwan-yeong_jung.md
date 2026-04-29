@@ -35,8 +35,8 @@ B.S., School of Energy and Chemical Engineering, UNIST, Republic of Korea
 
 {% include section.html%}
 # Awards & Honors
-* **26th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics **(2020)**
-* **24th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics **(2018)**
+* **26th Humantech Award**, Gold prize (Energy & Environment), Samsung Electronics **(2020)**
+* **24th Humantech Award**, Gold prize (Energy & Environment), Samsung Electronics **(2018)**
 * **Outstanding Graduate Student Award**, Department of Chemical Engineering, UNIST **(2017-2019)**
 * **Rising Researcher**, Korean Academy of Science and Technology (KAST) **(2017)**
 * **Best Oral Presentation Award**, The Korean Institute of Chemical Engineers (KIChE) **(2014)**
