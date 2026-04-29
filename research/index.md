@@ -9,21 +9,16 @@ nav:
 
 ### Multi-scale modeling & simulation
 Materials in real world are complicated &rarr; It cannot be described with single modeling technique!
-{% capture content %}
-  {%
+{%
   include figure.html
   image="images/multi-scale_simulation.png"
   caption=""
   width="100%"
 %}
-{% endcapture %}
 
-{%
-  include float.html
-  content=content
-  flip=false
+{% include float.html
+   clear = true
 %}
-
 
 
 ### Confocal Microscopy
