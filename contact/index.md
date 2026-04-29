@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-#5-443, College of Natural Sciences, Incheon National University  
+#5-449, College of Natural Sciences, Incheon National University  
 119 Academy-ro, Yeonsu-gu, Incheon 22012, Republic of Korea  
 인천광역시 연수구 아카데미로 119(송도동) 인천대학교 5호관 449호  
 
