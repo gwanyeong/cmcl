@@ -200,6 +200,7 @@
   publisher: Nanoscale
   date: '2018-01-01'
   link: https://doi.org/gfx69b
+  image: images/publications/011_Nanoscale_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/smll.201802191
@@ -217,6 +218,7 @@
   publisher: Small
   date: '2018-08-10'
   link: https://doi.org/gd2nd6
+  image: images/publications/012_Small_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-018-06147-8
@@ -238,6 +240,7 @@
   publisher: Nature Communications
   date: '2018-09-26'
   link: https://doi.org/gfch82
+  image: images/publications/013_NC_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.8b01725
@@ -255,6 +258,7 @@
   publisher: ACS Catalysis
   date: '2018-09-07'
   link: https://doi.org/gfjtw8
+  image: images/publications/014_ACS_Catal_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.8b13517
@@ -269,6 +273,7 @@
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2018-10-01'
   link: https://doi.org/gfg4j9
+  image: images/publications/015_ACS_AMI_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C8EE01503A
@@ -285,7 +290,7 @@
   publisher: Energy &amp; Environmental Science
   date: '2019-01-01'
   link: https://doi.org/gj7d28
-  image: images/016_EES_2019.png
+  image: images/publications/016_EES_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.8b03446
@@ -303,7 +308,7 @@
   publisher: ACS Catalysis
   date: '2018-11-21'
   link: https://doi.org/hbzpqz
-  image: images/017_ACS_Catal_2019.png
+  image: images/publications/017_ACS_Catal_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201806937
@@ -321,7 +326,7 @@
   publisher: Advanced Functional Materials
   date: '2019-02-28'
   link: https://doi.org/gfv5cf
-  image: images/018_AFM_2019.png
+  image: images/publications/018_AFM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09339-y
@@ -341,7 +346,7 @@
   publisher: Nature Communications
   date: '2019-04-12'
   link: https://doi.org/hbzpq2
-  image: images/019_NC_2019.png
+  image: images/publications/019_NC_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/jacs.9b00543
@@ -357,7 +362,7 @@
   publisher: Journal of the American Chemical Society
   date: '2019-03-19'
   link: https://doi.org/ggf9fm
-  image: images/020_JACS_2019.png
+  image: images/publications/020_JACS_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201901217
@@ -377,7 +382,7 @@
   publisher: Advanced Functional Materials
   date: '2019-05-10'
   link: https://doi.org/gm8gfz
-  image: images/021_AFM_2019.png
+  image: images/publications/021_AFM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.9b04653
@@ -399,7 +404,7 @@
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2019-05-02'
   link: https://doi.org/hbzpq3
-  image: images/022_ACS_AMI_2019.png
+  image: images/publications/022_ACS_AMI_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.9b01334
@@ -416,7 +421,7 @@
   publisher: Nano Letters
   date: '2019-05-29'
   link: https://doi.org/hbzpq4
-  image: images/023_Nano_Lett_2019.png
+  image: images/publications/023_Nano_Lett_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.9b03525
@@ -438,7 +443,7 @@
   publisher: ACS Nano
   date: '2019-07-18'
   link: https://doi.org/hbzpq5
-  image: images/024_ACS_Nano_2019.png
+  image: images/publications/024_ACS_Nano_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.9b02346
@@ -454,7 +459,7 @@
   publisher: Chemistry of Materials
   date: '2019-08-27'
   link: https://doi.org/hbzpq6
-  image: images/025_CM_2019.png
+  image: images/publications/025_CM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.9b02700
@@ -474,7 +479,7 @@
   publisher: ACS Catalysis
   date: '2019-12-02'
   link: https://doi.org/gm8gf7
-  image: images/026_ACS_Catal_2020.png
+  image: images/publications/026_ACS_Catal_2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-14272-1
@@ -494,7 +499,7 @@
   publisher: Nature Communications
   date: '2020-01-21'
   link: https://doi.org/gg24g4
-  image: images/027_NC_2020.png
+  image: images/publications/027_NC_2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.202000563
@@ -517,7 +522,7 @@
   publisher: Advanced Energy Materials
   date: '2020-04-06'
   link: https://doi.org/ggrgrk
-  image: images/028_AEM_2020.png
+  image: images/publications/028_AEM_2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202000788
@@ -536,7 +541,7 @@
   publisher: Advanced Science
   date: '2020-06-08'
   link: https://doi.org/hbzpq7
-  image: images/029_Adv_Sci_2020.png
+  image: images/publications/029_Adv_Sci_2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D0SC02785E
@@ -553,7 +558,7 @@
   publisher: Chemical Science
   date: '2020-01-01'
   link: https://doi.org/ghm7qh
-  image: images/030_Chem_Sci_2020.png
+  image: images/publications/030_Chem_Sci_2020.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fenrg.2021.606313
@@ -568,7 +573,7 @@
   publisher: Frontiers in Energy Research
   date: '2021-02-11'
   link: https://doi.org/grdmmf
-  image: images/031_FER_2021.png
+  image: images/publications/031_FER_2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2021.229633
@@ -587,7 +592,7 @@
   publisher: Journal of Power Sources
   date: '2021-04-01'
   link: https://doi.org/hbzrh9
-  image: images/032_JPS_2021.png
+  image: images/publications/032_JPS_2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D1TC01333E
@@ -608,7 +613,7 @@
   publisher: Journal of Materials Chemistry C
   date: '2021-01-01'
   link: https://doi.org/hbzrjb
-  image: images/033_JMCC_2021.png
+  image: images/publications/033_JMCC_2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.202102096
@@ -632,7 +637,7 @@
   publisher: Advanced Energy Materials
   date: '2021-08-26'
   link: https://doi.org/hbzrjc
-  image: images/034_AEM_2021.png
+  image: images/publications/034_AEM_2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.2c01046
@@ -661,7 +666,7 @@
   publisher: Chemistry of Materials
   date: '2022-06-10'
   link: https://doi.org/hbzrjd
-  image: images/035_CM_2022.png
+  image: images/publications/035_CM_2022.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.2c07400
@@ -681,7 +686,7 @@
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2022-08-31'
   link: https://doi.org/hbzrjf
-  image: images/036_ACS_AMI_2022.png
+  image: images/publications/036_ACS_AMI_2022.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcc.2c07099
@@ -697,7 +702,7 @@
   publisher: The Journal of Physical Chemistry C
   date: '2022-12-28'
   link: https://doi.org/hbzrjg
-  image: images/037_JPCC_2023.png
+  image: images/publications/037_JPCC_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-023-38964-x
@@ -721,7 +726,7 @@
   publisher: Nature Communications
   date: '2023-06-03'
   link: https://doi.org/g7vcm5
-  image: images/038_NC_2023.png
+  image: images/publications/038_NC_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303588
@@ -750,7 +755,7 @@
   publisher: Advanced Materials
   date: '2023-09-20'
   link: https://doi.org/hbzrjh
-  image: images/039_AM_2023.png
+  image: images/publications/039_AM_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303283
@@ -783,7 +788,7 @@
   publisher: Advanced Materials
   date: '2023-10-27'
   link: https://doi.org/hbzrjj
-  image: images/040_AM_2023.png
+  image: images/publications/040_AM_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202302543
@@ -799,7 +804,7 @@
   publisher: Advanced Functional Materials
   date: '2023-08-27'
   link: https://doi.org/hbzrjk
-  image: images/041_AFM_2023.png
+  image: images/publications/041_AFM_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202311559
@@ -832,7 +837,7 @@
   publisher: Advanced Materials
   date: '2024-04-10'
   link: https://doi.org/hbzrjm
-  image: images/042_AM_2024.png
+  image: images/publications/042_AM_2024.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.adl2835
@@ -880,7 +885,7 @@
   publisher: Science
   date: '2024-04-19'
   link: https://doi.org/gt5q3g
-  image: images/043_Science_2024.png
+  image: images/publications/043_Science_2024.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202416560
@@ -902,7 +907,7 @@
   publisher: Advanced Functional Materials
   date: '2024-12-12'
   link: https://doi.org/hbzrjn
-  image: images/044_AFM_2025.png
+  image: images/publications/044_AFM_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.est.4c14332
@@ -919,7 +924,7 @@
   publisher: Environmental Science &amp; Technology
   date: '2025-05-21'
   link: https://doi.org/hbzrjp
-  image: images/045_EST_2025.png
+  image: images/publications/045_EST_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c00977
@@ -933,7 +938,7 @@
   publisher: Chemistry of Materials
   date: '2025-07-18'
   link: https://doi.org/hbzrjq
-  image: images/046_CM_2025.png
+  image: images/publications/046_CM_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.5c07992
@@ -956,7 +961,7 @@
   publisher: ACS Nano
   date: '2025-10-20'
   link: https://doi.org/hbzrjr
-  image: images/047_ACS Nano_2025.png
+  image: images/publications/047_ACS Nano_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c02171
@@ -969,7 +974,7 @@
   publisher: Chemistry of Materials
   date: '2026-02-12'
   link: https://doi.org/hbzrjs
-  image: images/048_CM_2026.png
+  image: images/publications/048_CM_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jaerosci.2026.106767
@@ -983,7 +988,7 @@
   publisher: Journal of Aerosol Science
   date: '2026-05-01'
   link: https://doi.org/hbtjrs
-  image: images/049_JAS_2026.png
+  image: images/publications/049_JAS_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zk45-6lb2
@@ -1005,7 +1010,7 @@
   publisher: Physical Review B
   date: '2026-03-03'
   link: https://doi.org/hbzrjt
-  image: images/050_PRB_2026.png
+  image: images/publications/050_PRB_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zhk4-flgd
@@ -1018,6 +1023,6 @@
   publisher: Physical Review Materials
   date: '2026-03-31'
   link: https://doi.org/hbzrjv
-  image: images/051_PRM_2026.png
+  image: images/publications/051_PRM_2026.png
   plugin: sources.py
   file: sources.yaml
