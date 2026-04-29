@@ -13,8 +13,8 @@ The **Computational Materials Chemistry Laboratory (CMCL)** at [**Incheon Nation
 We use computational tools to understand and design materials for energy, catalysis, and functional semiconductors.
 {%
   include button.html
-  link="publication"
-  text="See our publications"
+  link="research"
+  text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -24,17 +24,17 @@ We use computational tools to understand and design materials for energy, cataly
   include feature.html
   image="images/research/gemini_1.png"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 
 {% capture text %}
-Our latest research.
+We use computational tools to understand and design materials for energy, catalysis, and functional semiconductors.
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -43,8 +43,8 @@ Our latest research.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Publications"
   flip=true
   style="bare"
   text=text
@@ -52,7 +52,7 @@ Our latest research.
 
 
 {% capture text %}
-test
+Meet the people who see the world through atoms and solve challenges through teamwork.
 {%
   include button.html
   link="team"
