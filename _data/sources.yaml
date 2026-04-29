@@ -41,11 +41,21 @@
 - id: doi:10.1002/adfm.202302543
 - id: doi:10.1002/adma.202311559
 - id: doi:10.1126/science.adl2835
+  image: images/043_Science_2024.png
 - id: doi:10.1002/adfm.202416560
+  image: images/044_AFM_2025.png
 - id: doi:10.1021/acs.est.4c14332
+  image: images/045_EST_2025.png
 - id: doi:10.1021/acs.chemmater.5c00977
+  image: images/046_CM_2025.png
 - id: doi:10.1021/acsnano.5c07992
+  image: images/047_ACS Nano_2025.png
 - id: doi:10.1021/acs.chemmater.5c02171
+  image: images/048_CM_2026.png
 - id: doi:10.1016/j.jaerosci.2026.106767
+  image: images/049_JAS_2026.png
 - id: doi:10.1103/zk45-6lb2
+  image: images/050_PRB_2026.png
 - id: doi:10.1103/zhk4-flgd
+  image: images/051_PRM_2026.png
+
