@@ -19,25 +19,25 @@ Dr. Gwan Yeong Jung is an Assistant Professor in the Department of Chemistry at 
 
 {% include section.html%}
 # Appointments
-2026.03 ~ present
+2026.03 ~ present  
 Assistant Professor, Department of Chemistry, Incheon National University, Incheon, Republic of Korea
-2021.09 ~ 2026.02
-Postdoctoral Research Associate, Department of Mechanical Engineering & Materials Science, Washington University in St. Louis, MO, United States
-2020.03 ~ 2021.08
-Postdoctoral Research Associate, Department of Energy and Chemical Engineering, UNIST, Ulsan, Republic of Korea
+2021.09 ~ 2026.02  
+Postdoctoral Research Associate, Department of Mechanical Engineering & Materials Science, Washington University in St. Louis, MO, United States **(Advisor: Dr. Rohan Mishra)**
+2020.03 ~ 2021.08  
+Postdoctoral Research Associate, Department of Energy and Chemical Engineering, UNIST, Ulsan, Republic of Korea **(Advisor: Dr. Sang Kyu Kwak)**
 
 {% include section.html%}
 # Education
-2014.03 ~ 2020.02
-Ph.D, Department of Chemical Engineering, UNIST, Ulsan, Republic of Korea
-2010.03 ~ 2014.02
+2014.03 ~ 2020.02  
+Ph.D, Department of Chemical Engineering, UNIST, Ulsan, Republic of Korea **(Advisor: Dr. Sang Kyu Kwak)**
+2010.03 ~ 2014.02  
 B.S., School of Energy and Chemical Engineering, UNIST, Ulsan, Republic of Korea
 
 {% include section.html%}
 # Awards & Honors
-2020 **26th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics
-2018 **24th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics
-2017-2019 **Outstanding Graduate Student Award**, Department of Chemical Engineering, UNIST
-2017 **Rising Researcher**, Korean Academy of Science and Technology (KAST)
-2014 **Best Oral Presentation Award**, The Korean Institute of Chemical Engineers (KIChE)
-2010-2013 **Full Scholarship in B.S. degree**, Korea Student Aid Foundation (KOSAF)
+* 2020 **26th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics
+* 2018 **24th Humantech Award**, 1st prize (Energy & Environment), Samsung Electronics
+* 2017-2019 **Outstanding Graduate Student Award**, Department of Chemical Engineering, UNIST
+* 2017 **Rising Researcher**, Korean Academy of Science and Technology (KAST)
+* 2014 **Best Oral Presentation Award**, The Korean Institute of Chemical Engineers (KIChE)
+* 2010-2013 **Full Scholarship in B.S. degree**, Korea Student Aid Foundation (KOSAF)
