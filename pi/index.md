@@ -1,4 +1,8 @@
 ---
+title: PI
+nav:
+  order: 2
+  tooltip: Principal Investigator
 name: Gwan Yeong Jung
 image: images/photo_01.jpg
 role: principal-investigator
