@@ -22,7 +22,7 @@ We use computational tools to understand and design materials for energy, cataly
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/gemini_1.png"
   link="research"
   title="Our Research"
   text=text
