@@ -3,6 +3,6 @@ title: PI
 nav:
   order: 2
   tooltip: Principal Investigator
-redirect_to: /members/gwan-yeong_jung/
+redirect_to: /members/gwan-yeong_jung.html
 layout: null
 ---
