@@ -2,7 +2,6 @@
 name: Gwan Yeong Jung
 image: images/photo_01.jpg
 role: principal-investigator
-affiliation: Incheon National University
 aliases:
   - G.Y. Jung
   - Gwan-Yeong Jung
