@@ -5,6 +5,7 @@ description: Solving the puzzle of atoms to unveil the hidden logic of materials
 header: images/INU_background_2.jpg
 footer: images/INU_background_2.jpg
 proofer: false
+show-subtitle: true
 
 # site social media and other links
 links:
