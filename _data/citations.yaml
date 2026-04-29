@@ -853,6 +853,7 @@
   publisher: Science
   date: '2024-04-19'
   link: https://doi.org/gt5q3g
+  image: images/043_Science_2024.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202416560
@@ -874,6 +875,7 @@
   publisher: Advanced Functional Materials
   date: '2024-12-12'
   link: https://doi.org/hbzrjn
+  image: images/044_AFM_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.est.4c14332
@@ -890,6 +892,7 @@
   publisher: Environmental Science &amp; Technology
   date: '2025-05-21'
   link: https://doi.org/hbzrjp
+  image: images/045_EST_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c00977
@@ -903,6 +906,7 @@
   publisher: Chemistry of Materials
   date: '2025-07-18'
   link: https://doi.org/hbzrjq
+  image: images/046_CM_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.5c07992
@@ -925,6 +929,7 @@
   publisher: ACS Nano
   date: '2025-10-20'
   link: https://doi.org/hbzrjr
+  image: images/047_ACS Nano_2025.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c02171
@@ -937,6 +942,7 @@
   publisher: Chemistry of Materials
   date: '2026-02-12'
   link: https://doi.org/hbzrjs
+  image: images/048_CM_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jaerosci.2026.106767
@@ -950,6 +956,7 @@
   publisher: Journal of Aerosol Science
   date: '2026-05-01'
   link: https://doi.org/hbtjrs
+  image: images/049_JAS_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zk45-6lb2
@@ -971,6 +978,7 @@
   publisher: Physical Review B
   date: '2026-03-03'
   link: https://doi.org/hbzrjt
+  image: images/050_PRB_2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zhk4-flgd
@@ -983,5 +991,6 @@
   publisher: Physical Review Materials
   date: '2026-03-31'
   link: https://doi.org/hbzrjv
+  image: images/051_PRM_2026.png
   plugin: sources.py
   file: sources.yaml
