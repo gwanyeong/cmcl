@@ -285,6 +285,7 @@
   publisher: Energy &amp; Environmental Science
   date: '2019-01-01'
   link: https://doi.org/gj7d28
+  image: images/016_EES_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.8b03446
@@ -302,6 +303,7 @@
   publisher: ACS Catalysis
   date: '2018-11-21'
   link: https://doi.org/hbzpqz
+  image: images/017_ACS_Catal_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201806937
@@ -319,6 +321,7 @@
   publisher: Advanced Functional Materials
   date: '2019-02-28'
   link: https://doi.org/gfv5cf
+  image: images/018_AFM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09339-y
@@ -338,6 +341,7 @@
   publisher: Nature Communications
   date: '2019-04-12'
   link: https://doi.org/hbzpq2
+  image: images/019_NC_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/jacs.9b00543
@@ -353,6 +357,7 @@
   publisher: Journal of the American Chemical Society
   date: '2019-03-19'
   link: https://doi.org/ggf9fm
+  image: images/020_JACS_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201901217
@@ -372,6 +377,7 @@
   publisher: Advanced Functional Materials
   date: '2019-05-10'
   link: https://doi.org/gm8gfz
+  image: images/021_AFM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.9b04653
@@ -393,6 +399,7 @@
   publisher: ACS Applied Materials &amp; Interfaces
   date: '2019-05-02'
   link: https://doi.org/hbzpq3
+  image: images/022_ACS_AMI_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.9b01334
@@ -409,6 +416,7 @@
   publisher: Nano Letters
   date: '2019-05-29'
   link: https://doi.org/hbzpq4
+  image: images/023_Nano_Lett_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.9b03525
@@ -430,6 +438,7 @@
   publisher: ACS Nano
   date: '2019-07-18'
   link: https://doi.org/hbzpq5
+  image: images/024_ACS_Nano_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.9b02346
@@ -445,6 +454,7 @@
   publisher: Chemistry of Materials
   date: '2019-08-27'
   link: https://doi.org/hbzpq6
+  image: images/025_CM_2019.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.9b02700
