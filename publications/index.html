@@ -3088,26 +3088,31 @@
 </div>
 
 <style>
-  /* 논문 리스트의 불렛 포인트를 없애고 번호를 생성 */
+  /* 1. 카운터 초기화 */
   .publications-list {
-    counter-reset: pub-counter; /* 카운터 초기화 */
-    list-style-type: none;
+    counter-reset: pub-counter;
     padding-left: 0;
   }
 
-  .publications-list li {
-    counter-increment: pub-counter; /* 항목마다 1씩 증가 */
+  /* 2. li 뿐만 아니라 내부의 모든 항목(div 등)을 찾아 번호 부여 */
+  .publications-list li,
+  .publications-list > div:not(.search-box):not(.search-info) {
+    counter-increment: pub-counter;
     position: relative;
-    padding-left: 35px; /* 번호가 들어갈 공간 */
+    padding-left: 45px; /* 번호 공간 확보 */
     margin-bottom: 15px;
+    list-style-type: none; /* 불렛 제거 */
   }
 
-  .publications-list li::before {
-    content: "[" counter(pub-counter) "]"; /* 번호 형식 지정: [1], [2]... */
+  /* 3. 번호 출력 */
+  .publications-list li::before,
+  .publications-list > div:not(.search-box):not(.search-info)::before {
+    content: "" counter(pub-counter). "";
     position: absolute;
     left: 0;
+    top: 0;
     font-weight: bold;
-    color: #004a99; /* 메인 블루 톤 */
+    color: #004a99;
   }
 </style>
   </section>
