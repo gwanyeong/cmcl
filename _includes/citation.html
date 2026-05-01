@@ -53,6 +53,8 @@
           | split: ","
           | array_carve: 5
           | join: ", "
+          | replace: "Gwan Yeong Jung", "<strong style='color: #0056b3;'>Gwan Yeong Jung</strong>"
+          | replace: "Gwan-Yeong Jung", "<strong style='color: #0056b3;'>Gwan Yeong Jung</strong>"
           | markdownify
           | remove: "<p>" | remove: "</p>"
           | default: "[no author info]"
