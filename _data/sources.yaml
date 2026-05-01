@@ -1,13 +1,23 @@
 - id: doi:10.1002/adma.201404707
+  image: images/publications/001_Adv_Mater_2015.png
 - id: doi:10.1021/acsnano.5b00786
+  image: images/publications/002_ACS_Nano_2015.png
 - id: doi:10.1038/ncomms9294
+  image: images/publications/003_NC_2015.png
 - id: doi:10.1021/acs.inorgchem.5b02874
+  image: images/publications/004_Inorg_Chem_2016.png
 - id: doi:10.1021/acs.nanolett.6b00870
+  image: images/publications/005_Nano_Lett_2016.png
 - id: doi:10.1002/adfm.201602734
+  image: images/publications/006_AFM_2016.png
 - id: doi:10.1016/j.nanoen.2016.12.037
+  image: images/publications/007_Nano_Energy_2017.png
 - id: doi:10.1021/acs.nanolett.6b04830
+  image: images/publications/008_Nano_Lett_2017.png
 - id: doi:10.1016/j.electacta.2017.08.166
+  image: images/publications/009_Electrochim_Acta_2017.png
 - id: doi:10.1016/j.jiec.2017.08.035
+  image: images/publications/010_JIEC_2018.png
 - id: doi:10.1039/C7NR08161H
   image: images/publications/011_Nanoscale_2018.png
 - id: doi:10.1002/smll.201802191
