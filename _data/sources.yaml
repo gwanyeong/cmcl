@@ -106,52 +106,101 @@
     - catalysis
 - id: doi:10.1038/s41467-019-14272-1
   image: images/publications/027_NC_2020.png
+  tags:
+    - catalysis
 - id: doi:10.1002/aenm.202000563
   image: images/publications/028_AEM_2020.png
+  tags:
+    - battery
 - id: doi:10.1002/advs.202000788
   image: images/publications/029_Adv_Sci_2020.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1039/D0SC02785E
   image: images/publications/030_Chem_Sci_2020.png
+  tags:
+    - battery
 - id: doi:10.3389/fenrg.2021.606313
   image: images/publications/031_FER_2021.png
+  tags:
+    - catalysis
 - id: doi:10.1016/j.jpowsour.2021.229633
   image: images/publications/032_JPS_2021.png
+  tags:
+    - battery
 - id: doi:10.1039/D1TC01333E
   image: images/publications/033_JMCC_2021.png
+  tags:
+    - sensor
 - id: doi:10.1002/aenm.202102096
   image: images/publications/034_AEM_2021.png
+  tags:
+    - battery
 - id: doi:10.1021/acs.chemmater.2c01046
   image: images/publications/035_CM_2022.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1021/acsami.2c07400
   image: images/publications/036_ACS_AMI_2022.png
+  tags:
+    - battery
 - id: doi:10.1021/acs.jpcc.2c07099
   image: images/publications/037_JPCC_2023.png
+  tags:
+    - functional-materials
 - id: doi:10.1038/s41467-023-38964-x
   image: images/publications/038_NC_2023.png
+  tags:
+    - catalysis
 - id: doi:10.1002/adma.202303588
   image: images/publications/039_AM_2023.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1002/adma.202303283
   image: images/publications/040_AM_2023.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1002/adfm.202302543
   image: images/publications/041_AFM_2023.png
+  tags:
+    - battery
 - id: doi:10.1002/adma.202311559
   image: images/publications/042_AM_2024.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1126/science.adl2835
   image: images/publications/043_Science_2024.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1002/adfm.202416560
   image: images/publications/044_AFM_2025.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1021/acs.est.4c14332
   image: images/publications/045_EST_2025.png
+  tags:
+    - catalysis
 - id: doi:10.1021/acs.chemmater.5c00977
   image: images/publications/046_CM_2025.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1021/acsnano.5c07992
   image: images/publications/047_ACS Nano_2025.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1021/acs.chemmater.5c02171
   image: images/publications/048_CM_2026.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1016/j.jaerosci.2026.106767
   image: images/publications/049_JAS_2026.png
+  tags:
+    - functional-materials
 - id: doi:10.1103/zk45-6lb2
   image: images/publications/050_PRB_2026.png
+  tags:
+    - functional-semiconductor
 - id: doi:10.1103/zhk4-flgd
   image: images/publications/051_PRM_2026.png
-
+  tags:
+    - functional-semiconductor
