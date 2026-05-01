@@ -95,6 +95,5 @@ nav:
 
 {% include search-box.html %}
 {% include search-info.html %}
-<div class="publications-list">
-  {% include list.html data="citations" component="citation" style="rich" %}
-</div>
+<! div class="publications-list"  / /div >
+{% include list.html data="citations" component="citation" style="rich" %}
