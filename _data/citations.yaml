@@ -14,6 +14,7 @@
   publisher: Advanced Materials
   date: '2015-01-12'
   link: https://doi.org/f2x6gr
+  image: images/publications/001_Adv_Mater_2015.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.5b00786
@@ -34,6 +35,7 @@
   publisher: ACS Nano
   date: '2015-03-26'
   link: https://doi.org/f7bxnr
+  image: images/publications/002_ACS_Nano_2015.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ncomms9294
@@ -64,6 +66,7 @@
   publisher: Nature Communications
   date: '2015-09-15'
   link: https://doi.org/f7vjm8
+  image: images/publications/003_NC_2015.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.inorgchem.5b02874
@@ -82,6 +85,7 @@
   publisher: Inorganic Chemistry
   date: '2016-01-28'
   link: https://doi.org/f8cd77
+  image: images/publications/004_Inorg_Chem_2016.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.6b00870
@@ -100,6 +104,7 @@
   publisher: Nano Letters
   date: '2016-04-28'
   link: https://doi.org/f8nkg5
+  image: images/publications/005_Nano_Lett_2016.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201602734
@@ -116,6 +121,7 @@
   publisher: Advanced Functional Materials
   date: '2016-09-07'
   link: https://doi.org/f3rc7q
+  image: images/publications/006_AFM_2016.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.nanoen.2016.12.037
@@ -137,6 +143,7 @@
   publisher: Nano Energy
   date: '2017-02-01'
   link: https://doi.org/f9xsx4
+  image: images/publications/007_Nano_Energy_2017.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.6b04830
@@ -153,6 +160,7 @@
   publisher: Nano Letters
   date: '2017-03-28'
   link: https://doi.org/f9vwfm
+  image: images/publications/008_Nano_Lett_2017.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.electacta.2017.08.166
@@ -169,6 +177,7 @@
   publisher: Electrochimica Acta
   date: '2017-10-01'
   link: https://doi.org/gcgh97
+  image: images/publications/009_Electrochim_Acta_2017.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jiec.2017.08.035
@@ -184,6 +193,7 @@
   publisher: Journal of Industrial and Engineering Chemistry
   date: '2018-01-01'
   link: https://doi.org/gcwpvj
+  image: images/publications/010_JIEC_2018.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C7NR08161H
