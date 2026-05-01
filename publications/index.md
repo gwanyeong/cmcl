@@ -62,7 +62,7 @@ nav:
       {% include figure.html image="images/cover/Chem_Sci_2020.png" width="400px" %}
     </div>
     
-    </div>
+  </div>
 </div>
 
 {% include section.html %}
