@@ -37,9 +37,11 @@
 
     <div class="pub-item" style="display: flex; margin-bottom: 22px; align-items: flex-start;">
       {% comment %} 번호 표시 (고정폭 확보) {% endcomment %}
-      <span class="pub-number" style="min-width: 50px; font-weight: bold; color: #004a99; font-family: 'Courier New', monospace;">
-        [{{ number }}]
-      </span>
+      {% if include.data == "citations" %}
+        <span class="pub-number" style="min-width: 50px; font-weight: bold; color: #004a99; font-family: 'Courier New', monospace;">
+          [{{ number }}]
+        </span>
+      {% endif %}
       
       <div class="pub-content" style="flex: 1;">
         {%
