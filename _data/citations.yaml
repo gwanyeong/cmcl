@@ -15,6 +15,8 @@
   date: '2015-01-12'
   link: https://doi.org/f2x6gr
   image: images/publications/001_Adv_Mater_2015.png
+  tags:
+  - sensor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.5b00786
@@ -36,6 +38,8 @@
   date: '2015-03-26'
   link: https://doi.org/f7bxnr
   image: images/publications/002_ACS_Nano_2015.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ncomms9294
@@ -67,6 +71,8 @@
   date: '2015-09-15'
   link: https://doi.org/f7vjm8
   image: images/publications/003_NC_2015.png
+  tags:
+  - functional materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.inorgchem.5b02874
@@ -86,6 +92,8 @@
   date: '2016-01-28'
   link: https://doi.org/f8cd77
   image: images/publications/004_Inorg_Chem_2016.png
+  tags:
+  - functional materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.6b00870
@@ -105,6 +113,8 @@
   date: '2016-04-28'
   link: https://doi.org/f8nkg5
   image: images/publications/005_Nano_Lett_2016.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201602734
@@ -122,6 +132,8 @@
   date: '2016-09-07'
   link: https://doi.org/f3rc7q
   image: images/publications/006_AFM_2016.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.nanoen.2016.12.037
@@ -144,6 +156,8 @@
   date: '2017-02-01'
   link: https://doi.org/f9xsx4
   image: images/publications/007_Nano_Energy_2017.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.6b04830
@@ -161,6 +175,8 @@
   date: '2017-03-28'
   link: https://doi.org/f9vwfm
   image: images/publications/008_Nano_Lett_2017.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.electacta.2017.08.166
@@ -178,6 +194,8 @@
   date: '2017-10-01'
   link: https://doi.org/gcgh97
   image: images/publications/009_Electrochim_Acta_2017.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jiec.2017.08.035
@@ -194,6 +212,8 @@
   date: '2018-01-01'
   link: https://doi.org/gcwpvj
   image: images/publications/010_JIEC_2018.png
+  tags:
+  - functional materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C7NR08161H
@@ -211,6 +231,8 @@
   date: '2018-01-01'
   link: https://doi.org/gfx69b
   image: images/publications/011_Nanoscale_2018.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/smll.201802191
@@ -229,6 +251,8 @@
   date: '2018-08-10'
   link: https://doi.org/gd2nd6
   image: images/publications/012_Small_2018.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-018-06147-8
@@ -251,6 +275,8 @@
   date: '2018-09-26'
   link: https://doi.org/gfch82
   image: images/publications/013_NC_2018.png
+  tags:
+  - sensor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.8b01725
@@ -269,6 +295,9 @@
   date: '2018-09-07'
   link: https://doi.org/gfjtw8
   image: images/publications/014_ACS_Catal_2018.png
+  tags:
+  - catalysis
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.8b13517
@@ -284,6 +313,8 @@
   date: '2018-10-01'
   link: https://doi.org/gfg4j9
   image: images/publications/015_ACS_AMI_2018.png
+  tags:
+  - sensor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C8EE01503A
@@ -301,6 +332,8 @@
   date: '2019-01-01'
   link: https://doi.org/gj7d28
   image: images/publications/016_EES_2019.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.8b03446
@@ -319,6 +352,8 @@
   date: '2018-11-21'
   link: https://doi.org/hbzpqz
   image: images/publications/017_ACS_Catal_2019.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201806937
@@ -337,6 +372,8 @@
   date: '2019-02-28'
   link: https://doi.org/gfv5cf
   image: images/publications/018_AFM_2019.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-09339-y
@@ -357,6 +394,8 @@
   date: '2019-04-12'
   link: https://doi.org/hbzpq2
   image: images/publications/019_NC_2019.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/jacs.9b00543
@@ -373,6 +412,8 @@
   date: '2019-03-19'
   link: https://doi.org/ggf9fm
   image: images/publications/020_JACS_2019.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.201901217
@@ -393,6 +434,8 @@
   date: '2019-05-10'
   link: https://doi.org/gm8gfz
   image: images/publications/021_AFM_2019.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.9b04653
@@ -415,6 +458,8 @@
   date: '2019-05-02'
   link: https://doi.org/hbzpq3
   image: images/publications/022_ACS_AMI_2019.png
+  tags:
+  - sensor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.nanolett.9b01334
@@ -432,6 +477,8 @@
   date: '2019-05-29'
   link: https://doi.org/hbzpq4
   image: images/publications/023_Nano_Lett_2019.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.9b03525
@@ -454,6 +501,9 @@
   date: '2019-07-18'
   link: https://doi.org/hbzpq5
   image: images/publications/024_ACS_Nano_2019.png
+  tags:
+  - catalysis
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.9b02346
@@ -470,6 +520,8 @@
   date: '2019-08-27'
   link: https://doi.org/hbzpq6
   image: images/publications/025_CM_2019.png
+  tags:
+  - functional materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.9b02700
@@ -490,6 +542,8 @@
   date: '2019-12-02'
   link: https://doi.org/gm8gf7
   image: images/publications/026_ACS_Catal_2020.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-019-14272-1
