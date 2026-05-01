@@ -20,14 +20,37 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   transition: background var(--transition), color var(--transition);
+  font-weight: 500;
 }
 
-.tag:hover {
+.tag:hover, .tag[data-active] {
   background: var(--light-gray);
+  filter: brigtness(90%);
 }
 
-.tag[data-active] {
-  background: var(--light-gray);
+.tag[data-keyword=catalysis] {
+  background: #004a99;
+  color: white;
+}
+
+.tag[data-keyword=sensor] {
+  background: #004a99;
+  color: white;
+}
+
+.tag[data-keyword=battery] {
+  background: #004a99;
+  color: white;
+}
+
+.tag[data-keyword=functional-semiconductor] {
+  background: #004a99;
+  color: white;
+}
+
+.tag[data-keyword=functional-materials] {
+  background: #004a99;
+  color: white;
 }
 
 /*# sourceMappingURL=tags.css.map */
