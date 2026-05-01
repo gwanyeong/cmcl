@@ -44,6 +44,15 @@
         class="citation-authors"
         {% if citation.authors.size > 10 %}
           data-tooltip="{{ citation.authors | join: ", " | xml_escape }}"
+          {% assign raw_authors = citation.authors | join: "," | split: "," %}
+          {% for author in raw_authors %}
+            {% if author contains "Gwan Yeong Jung" or author contains "Gwan-Yeong Jung" %}
+              <strong>{{  author  }} </strong>
+            {% else %}
+              {{ author }}
+            {% endif  %}
+            {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
         {% endif %}
         tabindex="0"
       >
