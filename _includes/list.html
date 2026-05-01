@@ -5,55 +5,79 @@
   | data_filter: include.filter
 %}
 
+{% comment %} 1. 전체 데이터 개수 파악 {% endcomment %}
+{% assign total_count = data.size %}
+
+{% comment %} 2. 연도별 그룹화 (최신 연도부터) {% endcomment %}
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
 %}
 
+<div class="publications-list">
+{% assign current_index = 0 %}
 {% for year in years %}
-  {% assign data = year.items %}
+  {% assign year_items = year.items %}
 
+  {% comment %} 연도 제목 {% endcomment %}
   {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
+    <h3 id="{{ year.name }}" style="margin-top: 50px; border-bottom: 1px solid #ddd; padding-bottom: 8px;">
+      {{ year.name }}
+    </h3>
+    {% assign year_items = year_items | sort: "date" | reverse %}
   {% endif %}
 
-  {% for d in data %}
+  {% for d in year_items %}
+    {% comment %} 3. 역순 번호 계산 {% endcomment %}
+    {% assign current_index = current_index | plus: 1 %}
+    {% assign number = total_count | minus: current_index | plus: 1 %}
+    
     {% assign style = d.style | default: include.style %}
 
-    {%
-      include {{ include.component | append: ".html" }}
-      affiliation=d.affiliation
-      author=d.author
-      authors=d.authors
-      buttons=d.buttons
-      caption=d.caption
-      content=d.content
-      date=d.date
-      description=d.description
-      excerpt=d.excerpt
-      height=d.height
-      icon=d.icon
-      id=d.id
-      image=d.image
-      last_modified_at=d.last_modified_at
-      link=d.link
-      lookup=d.lookup
-      name=d.name
-      publisher=d.publisher
-      repo=d.repo
-      role=d.role
-      slug=d.slug
-      style=style
-      subtitle=d.subtitle
-      tags=d.tags
-      text=d.text
-      title=d.title
-      tooltip=d.tooltip
-      type=d.type
-      url=d.url
-      width=d.width
-    %}
+    <div class="pub-item" style="display: flex; margin-bottom: 22px; align-items: flex-start;">
+      {% comment %} 번호 표시 (고정폭 확보) {% endcomment %}
+      <span class="pub-number" style="min-width: 50px; font-weight: bold; color: #004a99; font-family: 'Courier New', monospace;">
+        [{{ number }}]
+      </span>
+      
+      <div class="pub-content" style="flex: 1;">
+        {%
+          include {{ include.component | append: ".html" }}
+          affiliation=d.affiliation
+          author=d.author
+          authors=d.authors
+          buttons=d.buttons
+          caption=d.caption
+          content=d.content
+          date=d.date
+          description=d.description
+          excerpt=d.excerpt
+          height=d.height
+          icon=d.icon
+          id=d.id
+          image=d.image
+          last_modified_at=d.last_modified_at
+          link=d.link
+          lookup=d.lookup
+          name=d.name
+          publisher=d.publisher
+          repo=d.repo
+          role=d.role
+          slug=d.slug
+          style=style
+          subtitle=d.subtitle
+          tags=d.tags
+          text=d.text
+          title=d.title
+          tooltip=d.tooltip
+          type=d.type
+          url=d.url
+          width=d.width
+          number=number
+        %}
+      </div>
+    </div>
   {% endfor %}
 {% endfor %}
+</div>
