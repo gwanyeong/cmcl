@@ -51,6 +51,7 @@
           citation.authors
           | join: ","
           | split: ","
+          | array_carve: 10
           | join: ", "
           | replace: "Gwan Yeong Jung", "<span style='text-decoration: underline; color: black; font-weight: bold;'>Gwan Yeong Jung</span>"
           | replace: "Gwan-Yeong Jung", "<span style='text-decoration: underline; color: black; font-weight: bold;'>Gwan Yeong Jung</span>"
