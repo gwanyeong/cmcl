@@ -564,6 +564,30 @@
   .cover-scroll::-webkit-scrollbar-thumb { background: #ddd; border-radius: 10px; }
 </style>
 
+<style>
+  /* 논문 리스트의 불렛 포인트를 없애고 번호를 생성 */
+  .publications-list {
+    counter-reset: pub-counter; /* 카운터 초기화 */
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .publications-list li {
+    counter-increment: pub-counter; /* 항목마다 1씩 증가 */
+    position: relative;
+    padding-left: 35px; /* 번호가 들어갈 공간 */
+    margin-bottom: 15px;
+  }
+
+  .publications-list li::before {
+    content: "[" counter(pub-counter) "]"; /* 번호 형식 지정: [1], [2]... */
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+    color: #004a99; /* 메인 블루 톤 */
+  }
+</style>
+
 <div class="cover-wrapper">
   <div class="cover-scroll">
     <div class="cover-item">
