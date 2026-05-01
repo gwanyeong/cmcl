@@ -70,36 +70,7 @@ nav:
 
 {% include search-box.html %}
 {% include search-info.html %}
-<div class="publications-list">
-  {% include list.html data="citations" component="citation" style="rich" %}
-</div>
 
-<style>
-  /* 1. 카운터 초기화 */
-  .publications-list {
-    counter-reset: pub-counter;
-    padding-left: 0;
-  }
+{% include list.html data="citations" component="citation" style="rich" %}
 
-  /* 2. li 뿐만 아니라 내부의 모든 항목(div 등)을 찾아 번호 부여 */
-  .publications-list li,
-  .publications-list > div:not(.search-box):not(.search-info) {
-    counter-increment: pub-counter;
-    position: relative;
-    padding-left: 45px; /* 번호 공간 확보 */
-    margin-bottom: 15px;
-    list-style-type: none; /* 불렛 제거 */
-  }
-
-  /* 3. 번호 출력 */
-  .publications-list li::before,
-  .publications-list > div:not(.search-box):not(.search-info)::before {
-    content: "" counter(pub-counter). "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-weight: bold;
-    color: #004a99;
-  }
-</style>
 
