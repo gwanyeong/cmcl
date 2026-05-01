@@ -3,6 +3,18 @@
   tags:
     - sensor
 - id: doi:10.1021/acsnano.5b00786
+  authors:
+  - Bora Seo<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Young Jin Sa
+  - Hu Young Jeong
+  - Jae Yeong Cheon
+  - Jeong Hyeon Lee
+  - Ho Young Kim
+  - Jin Chul Kim
+  - Hyeon Suk Shin
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
   image: images/publications/002_ACS_Nano_2015.png
   tags:
     - catalysis
@@ -15,6 +27,16 @@
   tags:
     - functional materials
 - id: doi:10.1021/acs.nanolett.6b00870
+  authors:
+  - JongTae Yoo<strong>+</strong>
+  - Sung-Ju Cho<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Su Hwan Kim
+  - Keun-Ho Choi
+  - Jeong-Hoon Kim
+  - Chang Kee Lee
+  - Sang Kyu Kwak
+  - Sang-Young Lee
   image: images/publications/005_Nano_Lett_2016.png
   tags:
     - battery
@@ -27,6 +49,14 @@
   tags:
     - battery
 - id: doi:10.1021/acs.nanolett.6b04830
+  authors:
+  - Jeong-Hoon Kim<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Yong-Hyeok Lee
+  - Jung-Hwan Kim
+  - Sun-Young Lee
+  - Sang Kyu Kwak
+  - Sang-Young Lee
   image: images/publications/008_Nano_Lett_2017.png
   tags:
     - battery
@@ -39,6 +69,14 @@
   tags:
     - functional materials
 - id: doi:10.1039/C7NR08161H
+  authors:
+  - Bora Seo<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Jae Hyung Kim
+  - Tae Joo Shin
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
   image: images/publications/011_Nanoscale_2018.png
   tags:
     - catalysis
@@ -60,6 +98,14 @@
   tags:
     - sensor
 - id: doi:10.1039/C8EE01503A
+  authors:
+  - Sung-Ju Cho<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Su Hwan Kim
+  - Minchul Jang
+  - Doo-Kyung Yang
+  - Sang Kyu Kwak
+  - Sang-Young Lee
   image: images/publications/016_EES_2019.png
   tags:
     - battery
@@ -80,6 +126,16 @@
   tags:
     - battery
 - id: doi:10.1002/adfm.201901217
+  authors:
+  - Du San Baek<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Bora Seo
+  - Jin Chul Kim
+  - "Hyun\u2010Wook Lee"
+  - Tae Joo Shin
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
   image: images/publications/021_AFM_2019.png
   tags:
     - catalysis
@@ -88,10 +144,31 @@
   tags:
     - sensor
 - id: doi:10.1021/acs.nanolett.9b01334
+  authors:
+  - Seok-Kyu Cho<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Keun-Ho Choi
+  - Jiyun Lee
+  - JongTae Yoo
+  - Sang Kyu Kwak
+  - Sang-Young Lee
   image: images/publications/023_Nano_Lett_2019.png
   tags:
     - battery
 - id: doi:10.1021/acsnano.9b03525
+  authors:
+  - Chihyun Hwang<strong>+</strong>
+  - JongTae Yoo<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Se Hun Joo
+  - Jonghak Kim
+  - Aming Cha
+  - Jung-Gu Han
+  - Nam-Soon Choi
+  - Seok Ju Kang
+  - Sang-Young Lee
+  - Sang Kyu Kwak
+  - Hyun-Kon Song
   image: images/publications/024_ACS_Nano_2019.png
   tags:
     - catalysis
@@ -101,10 +178,32 @@
   tags:
     - functional materials
 - id: doi:10.1021/acscatal.9b02700
+  authors:
+  - Bora Seo<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Se Jeong Lee
+  - Du San Baek
+  - Young Jin Sa
+  - Hyeong Woo Ban
+  - Jae Sung Son
+  - Kiyoung Park
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
   image: images/publications/026_ACS_Catal_2020.png
   tags:
     - catalysis
 - id: doi:10.1038/s41467-019-14272-1
+  authors:
+  - Taejung Lim<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Jae Hyung Kim
+  - Sung O Park
+  - Jaehyun Park
+  - Yong-Tae Kim
+  - Seok Ju Kang
+  - Hu Young Jeong
+  - Sang Kyu Kwak
+  - Sang Hoon Joo
   image: images/publications/027_NC_2020.png
   tags:
     - catalysis
@@ -121,10 +220,26 @@
   tags:
     - battery
 - id: doi:10.3389/fenrg.2021.606313
+  authors:
+  - Hyeong Yong Lim
+  - Sung O Park
+  - Su Hwan Kim
+  - Gwan Yeong Jung<strong>*</strong>
+  - Sang Kyu Kwak<strong>*</strong>
   image: images/publications/031_FER_2021.png
   tags:
     - catalysis
 - id: doi:10.1016/j.jpowsour.2021.229633
+  authors:
+  - Jonghak Kim<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Chihyun Hwang<strong>+</strong>
+  - Jinhyeon Jeong
+  - Kyungeun Baek
+  - Jeongin Lee
+  - Seok Ju Kang
+  - Sang Kyu Kwak
+  - Hyun-Kon Song
   image: images/publications/032_JPS_2021.png
   tags:
     - battery
@@ -141,6 +256,17 @@
   tags:
     - functional-semiconductor
 - id: doi:10.1021/acsami.2c07400
+  authors:
+  - Jonghak Kim<strong>+</strong>
+  - Jinhyeon Jeong<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Jeongin Lee
+  - Ji Eun Lee
+  - Kyungeun Baek
+  - Seok Ju Kang
+  - Sang Kyu Kwak
+  - Chihyun Hwang
+  - Hyun-Kon Song
   image: images/publications/036_ACS_AMI_2022.png
   tags:
     - battery
@@ -161,6 +287,13 @@
   tags:
     - functional-semiconductor
 - id: doi:10.1002/adfm.202302543
+  authors:
+  - Hyunseok Moon<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Ji Eun Lee
+  - Imanuel Kristanto
+  - Sang Kyu Kwak
+  - "Sang\u2010Young Lee"
   image: images/publications/041_AFM_2023.png
   tags:
     - battery
@@ -185,6 +318,20 @@
   tags:
     - functional-semiconductor
 - id: doi:10.1021/acsnano.5c07992
+  authors:
+  - Guodong Ren<strong>+</strong>
+  - Shantanu Singh<strong>+</strong>
+  - Gwan Yeong Jung<strong>+</strong>
+  - Wooseon Choi
+  - Huandong Chen
+  - Boyang Zhao
+  - Kevin Ye
+  - Andrew R. Lupini
+  - Miaofang Chi
+  - Jordan A. Hachtel
+  - Young-Min Kim
+  - Jayakanth Ravichandran
+  - Rohan Mishra
   image: images/publications/047_ACS Nano_2025.png
   tags:
     - functional-semiconductor
@@ -193,6 +340,12 @@
   tags:
     - functional-semiconductor
 - id: doi:10.1016/j.jaerosci.2026.106767
+  authors:
+  - Joshin Kumar<strong>+</strong>
+  - Gwan-Yeong Jung<strong>+</strong>
+  - Taveen S. Kapoor
+  - Rohan Mishra
+  - Rajan K. Chakrabarty
   image: images/publications/049_JAS_2026.png
   tags:
     - functional-materials
