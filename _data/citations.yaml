@@ -564,6 +564,8 @@
   date: '2020-01-21'
   link: https://doi.org/gg24g4
   image: images/publications/027_NC_2020.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.202000563
@@ -587,6 +589,8 @@
   date: '2020-04-06'
   link: https://doi.org/ggrgrk
   image: images/publications/028_AEM_2020.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/advs.202000788
@@ -606,6 +610,8 @@
   date: '2020-06-08'
   link: https://doi.org/hbzpq7
   image: images/publications/029_Adv_Sci_2020.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D0SC02785E
@@ -623,6 +629,8 @@
   date: '2020-01-01'
   link: https://doi.org/ghm7qh
   image: images/publications/030_Chem_Sci_2020.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fenrg.2021.606313
@@ -638,6 +646,8 @@
   date: '2021-02-11'
   link: https://doi.org/grdmmf
   image: images/publications/031_FER_2021.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jpowsour.2021.229633
@@ -657,6 +667,8 @@
   date: '2021-04-01'
   link: https://doi.org/hbzrh9
   image: images/publications/032_JPS_2021.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/D1TC01333E
@@ -678,6 +690,8 @@
   date: '2021-01-01'
   link: https://doi.org/hbzrjb
   image: images/publications/033_JMCC_2021.png
+  tags:
+  - sensor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/aenm.202102096
@@ -702,6 +716,8 @@
   date: '2021-08-26'
   link: https://doi.org/hbzrjc
   image: images/publications/034_AEM_2021.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.2c01046
@@ -731,6 +747,8 @@
   date: '2022-06-10'
   link: https://doi.org/hbzrjd
   image: images/publications/035_CM_2022.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsami.2c07400
@@ -751,6 +769,8 @@
   date: '2022-08-31'
   link: https://doi.org/hbzrjf
   image: images/publications/036_ACS_AMI_2022.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcc.2c07099
@@ -767,6 +787,8 @@
   date: '2022-12-28'
   link: https://doi.org/hbzrjg
   image: images/publications/037_JPCC_2023.png
+  tags:
+  - functional-materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-023-38964-x
@@ -791,6 +813,8 @@
   date: '2023-06-03'
   link: https://doi.org/g7vcm5
   image: images/publications/038_NC_2023.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303588
@@ -820,6 +844,8 @@
   date: '2023-09-20'
   link: https://doi.org/hbzrjh
   image: images/publications/039_AM_2023.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202303283
@@ -853,6 +879,8 @@
   date: '2023-10-27'
   link: https://doi.org/hbzrjj
   image: images/publications/040_AM_2023.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202302543
@@ -869,6 +897,8 @@
   date: '2023-08-27'
   link: https://doi.org/hbzrjk
   image: images/publications/041_AFM_2023.png
+  tags:
+  - battery
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202311559
@@ -902,6 +932,8 @@
   date: '2024-04-10'
   link: https://doi.org/hbzrjm
   image: images/publications/042_AM_2024.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.adl2835
@@ -950,6 +982,8 @@
   date: '2024-04-19'
   link: https://doi.org/gt5q3g
   image: images/publications/043_Science_2024.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adfm.202416560
@@ -972,6 +1006,8 @@
   date: '2024-12-12'
   link: https://doi.org/hbzrjn
   image: images/publications/044_AFM_2025.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.est.4c14332
@@ -989,6 +1025,8 @@
   date: '2025-05-21'
   link: https://doi.org/hbzrjp
   image: images/publications/045_EST_2025.png
+  tags:
+  - catalysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c00977
@@ -1003,6 +1041,8 @@
   date: '2025-07-18'
   link: https://doi.org/hbzrjq
   image: images/publications/046_CM_2025.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acsnano.5c07992
@@ -1026,6 +1066,8 @@
   date: '2025-10-20'
   link: https://doi.org/hbzrjr
   image: images/publications/047_ACS Nano_2025.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.chemmater.5c02171
@@ -1039,6 +1081,8 @@
   date: '2026-02-12'
   link: https://doi.org/hbzrjs
   image: images/publications/048_CM_2026.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jaerosci.2026.106767
@@ -1053,6 +1097,8 @@
   date: '2026-05-01'
   link: https://doi.org/hbtjrs
   image: images/publications/049_JAS_2026.png
+  tags:
+  - functional-materials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zk45-6lb2
@@ -1075,6 +1121,8 @@
   date: '2026-03-03'
   link: https://doi.org/hbzrjt
   image: images/publications/050_PRB_2026.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/zhk4-flgd
@@ -1088,5 +1136,7 @@
   date: '2026-03-31'
   link: https://doi.org/hbzrjv
   image: images/publications/051_PRM_2026.png
+  tags:
+  - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
