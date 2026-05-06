@@ -21,7 +21,7 @@ Materials in real world are complicated &rarr; It cannot be described with singl
 %}
 
 
-### Confocal Microscopy
+### Energy materials
 
 {% capture content %}
   {%
@@ -37,13 +37,12 @@ Materials in real world are complicated &rarr; It cannot be described with singl
   content=content
   flip=true
 %}
-
-Confocal microscopy or confocal laser scanning microscopy is an optical imaging technique for increasing optical resolution and contrast of a micrograph/object. Capturing multiple two-dimensional images at different depths in a sample enables the reconstruction of three-dimensional structures within an object. Objects like neurons, astrocytes or microglia can be label using viral constructs, or like in the picture using lipophilic colorant DiI (Fig A, B1 & C1). After capturing multiple z-tack, images are exported and analyzed using morphological analysis software, Bitplane Autoquant (Fig B2 & C2). Both techniques are extensively used in the scientific research. 
+In the field of energy materials, our group is dedicated to advancing the frontier of energy storage by desigining core components for next-generation energy systems, such as post Li-ion batteries and supercapacitors. We employ advanced computational techniques to model complex electrochemical interfaces, focusing on the rational design of novel elctrolytes, electrode materials, functional membranes, and additives. Our ultimate goal is to elucidate fundamental mechanisms to guide the development of highly stable, safe, and efficient energy storage devices tailored for furture energy landscapes.
 
 {% include float.html clear=false %}
 
 
-### Operant Conditioning	
+### Catalysis	
 
 {% capture content %}
   {%
@@ -60,9 +59,9 @@ Confocal microscopy or confocal laser scanning microscopy is an optical imaging 
   flip=false
 %}
 
-Operant conditioning is a type of learning that involves associating voluntary behaviour with a consequence. We use operant responding for a number of experiments associated with drug voluntary intake, for example cocaine, heroin, cannabinoids or nicotine, or natural rewards intake, for example food or sucrose. We have operant self-administration chambers for mice and rats. This voluntary process is a critical aspect of human drug addiction, and using operant tasks we can dissect the neural circuits involved in discrete components of behaviors associated with motivation. 
+Our research in catalysis aims to advance eco-friendly energy conversion and chemical synthesis by identifying fundamental design principles for highly active, selective, and durable catalysts. By employing first-principles electronic structure calculations and data-driven informatics, we delve into the thermodynamics and kinetics at the electrochemical interface. This computational approach allows us to systematically identify active sites, elucidate intricate reaction pathways, and uncover the fundamental origins of catalytic performance, accelerating the transition from empirical discovery to the rational design of optimal catalysts. Our current research scope encompasses the chlorine evolution reaction, seawater splitting, and redox reactions for water electrolyzers and fuel cells. 
 
-### Morphological and Protein Analysis
+### Functional semiconductor
 
 {% capture content %}
   {%
@@ -79,9 +78,5 @@ Operant conditioning is a type of learning that involves associating voluntary b
   flip=true
 %}
 
-After capturing multiple two-dimensional images at different depths, images are exported and analyzed using morphological analysis software, BitPlane Autoquant. Pictures on the right show AAV1-ef1-dflox-mCherry transfection in NAcore and method for quantifying dendritic protein immunoreactivity in labeled neurons. Micrograph sequence of the method used to quantify p-cofilin (green) expression in NAcore dendritic segments labeled with viral construct (red). 1. Micrograph of segment in the merged confocal imaging showing p-cofilin puncta and Cre-dependent labeling of D1-MSN dendrites.
-2. Isolation of the dendritic segment using IMARIS software. 
-3. Masked dendrite and surrounding p-cofilin signal. 
-4. Isolated dendritic segment (red) and p-cofilin puncta within the dendrite (white). 
-5. Quantified colocalization between dendrite and p-cofilin puncta. Scale bar=5µm.
+Driven by the demand for next-generation optoelectronics and quantum devices, our research focuses on the discovery and design of advanced functional semiconductors. By integrating first-princiles calculations with physics modeling, we uncover the fundamental origins of emergent physical phenomena - encompassing novel electronic, optical, phononic, and topological properties - at the atomic level. Through these investigations, we aim to establish robust design principles that accelerate the developemnt of functional semiconductor for advanced sensing, photonic computing and quantum information technologies.
 {% include float.html clear=false %}
