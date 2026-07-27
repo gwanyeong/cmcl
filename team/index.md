@@ -22,9 +22,11 @@ Meet the people who see the world through atoms and solve challenges through tea
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/HJH.jpg" %} 
+{% include figure.html image="images/LYJ.jpg" %} 
+{% include figure.html image="images/SCH.jpg" %}
+{% include figure.html image="images/KTW.jpg" %}
+
 
 {% endcapture %}
 
