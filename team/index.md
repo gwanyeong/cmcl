@@ -22,10 +22,10 @@ Meet the people who see the world through atoms and solve challenges through tea
 
 {% capture content %}
 
-{% include figure.html image="images/HJH.jpg" caption="Hwang Jin Hyeon" %} 
-{% include figure.html image="images/LYJ.jpg" caption="Lee Yun Ju" %} 
-{% include figure.html image="images/SCH.jpg" caption="Son Chae Hyeok" %}
-{% include figure.html image="images/KTW.jpg" caption="Kim Tae Wan" %}
+{% include figure.html image="images/HJH.jpg" caption="undergraduate student<br>Hwang Jin Hyeon<br>2026.07~" %} 
+{% include figure.html image="images/LYJ.jpg" caption="undergraduate student<br>Lee Yun Ju<br>2026.07~" %} 
+{% include figure.html image="images/SCH.jpg" caption="undergraduate student<br>Son Chae Hyeok<br>2026.07~" %}
+{% include figure.html image="images/KTW.jpg" caption="undergraduate student<br>Kim Tae Wan<br>2026.07~" %}
 
 
 {% endcapture %}
