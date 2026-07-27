@@ -25,7 +25,7 @@ Meet the people who see the world through atoms and solve challenges through tea
 {% include figure.html image="images/HJH.jpg" %} 
 {% include figure.html image="images/LYJ.jpg" %} 
 {% include figure.html image="images/SCH.jpg" %}
-{% include figure.html image="images/KTW.jpg" %}
+{% include figure.html image="images/KTW.jpg" caption="Kim Tae Wan"%}
 
 
 {% endcapture %}
