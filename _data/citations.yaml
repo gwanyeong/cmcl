@@ -1141,3 +1141,23 @@
   - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2602.16051
+  title: Twist-induced Out-of-plane Ferroelectricity in Bilayer Hafnia
+  authors:
+  - Jian Huang
+  - Gwan Yeong Jung
+  - Pravan Omprakash
+  - Guodong Ren
+  - Xin Li
+  - Du Li
+  - Xiaoshan Xu
+  - Li Yang
+  - Rohan Mishra
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hckqxm
+  image: images/publications/052_Nano_Lett_2026.png
+  tags:
+  - functional-semiconductor
+  plugin: sources.py
+  file: sources.yaml
