@@ -525,8 +525,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acscatal.9b02700
-  title: "Monomeric MoS<sub>4</sub><sup>2\u2013</sup>-Derived Polymeric Chains with\
-    \ Active Molecular Units for Efficient Hydrogen Evolution Reaction"
+  title: "Monomeric MoS\n                    <sub>4</sub>\n                    <sup>2\u2013\
+    </sup>\n                    -Derived Polymeric Chains with Active Molecular Units\
+    \ for Efficient Hydrogen Evolution Reaction"
   authors:
   - Bora Seo<strong>+</strong>
   - Gwan Yeong Jung<strong>+</strong>
