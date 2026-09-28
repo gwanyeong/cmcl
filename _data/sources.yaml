@@ -357,7 +357,19 @@
   image: images/publications/051_PRM_2026.png
   tags:
     - functional-semiconductor
-- id: doi:10.48550/arXiv.2602.16051
+- title: Twist-induced Out-of-plane Ferroelectricity in Bilayer Hafnia
+  authors:
+  - Jian Huang
+  - Gwan Yeong Jung
+  - Pravan Omprakash
+  - Guodong Ren
+  - Xin Li
+  - Du Li
+  - Xiaoshan Xu
+  - Li Yang
+  - Rohan Mishra
+  publisher: Nano Letters (accepted)
+  date: '2026-09-28'
   image: images/publications/052_Nano_Lett_2026.png
   tags:
     - functional-semiconductor
