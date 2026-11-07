@@ -1141,21 +1141,73 @@
   - functional-semiconductor
   plugin: sources.py
   file: sources.yaml
-- title: Twist-induced Out-of-plane Ferroelectricity in Bilayer Hafnia
+- id: doi:10.1021/acs.nanolett.6c04005
+  title: 'Twist-Induced
+
+    Out-of-Plane Ferroelectricity in Bilayer
+
+    Hafnia'
   authors:
   - Jian Huang
   - Gwan Yeong Jung
   - Pravan Omprakash
   - Guodong Ren
   - Xin Li
+  - Xilong Xu
   - Du Li
   - Xiaoshan Xu
   - Li Yang
   - Rohan Mishra
   publisher: Nano Letters
-  status: Accepted
-  date: '2026-09-28'
+  date: '2026-10-14'
+  link: https://doi.org/hcrvq5
   image: images/publications/052_Nano_Lett_2026.png
+  tags:
+  - functional-semiconductor
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adma.75144
+  title: "Sub\u2010nm\n                    <sup>2</sup>\n                    Ferroelectric\
+    \ Domains via Charged 180\xB0 Walls in ZrO\n                    <sub>2</sub>"
+  authors:
+  - Nashrah Afroze
+  - Hamoon Fahrvandi
+  - Guodong Ren
+  - Pawan Kumar
+  - Christopher Nelson
+  - Sarah Lombardo
+  - Mengkun Tian
+  - "Ping\u2010Che Lee"
+  - Jiayi Chen
+  - Manifa Noor
+  - Kisung Chae
+  - Sanghyun Kang
+  - Prasanna Venkat Ravindran
+  - Matthew Bergschneider
+  - Gwan Yeong Jung
+  - Pravan Omprakash
+  - Gardy K. Ligonde
+  - Nujhat Tasneem
+  - Dina Triyoso
+  - Steven Consiglio
+  - Kanda Tapily
+  - Robert Clark
+  - Gert Leusink
+  - Jayakanth Ravichandran
+  - Shimeng Yu
+  - Andrew R Lupini
+  - Andrew C Kummel
+  - Kyeongjae Cho
+  - "Duk\u2010Hyun Choe"
+  - "Nazanin Bassiri\u2010Gharb"
+  - Josh Kacher
+  - Rohan Mishra
+  - Jun Hee Lee
+  - Asif Khan
+  publisher: Advanced Materials
+  date: '2026-10-21'
+  link: https://doi.org/hcrc78
+  image: images/publications/053_Adv_Mater_2026.png
   tags:
   - functional-semiconductor
   plugin: sources.py
