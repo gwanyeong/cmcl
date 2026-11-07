@@ -69,6 +69,18 @@
         <span class="citation-date">
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
         </span>
+        {% assign journal = citation.publisher | replace: "&amp;", "&" %}
+        {% assign impact = site.data.impact_factors.journals[journal] %}
+        {% if impact %}
+          &nbsp;·&nbsp;
+          <span
+            class="citation-impact"
+            data-tooltip="{{ site.data.impact_factors.edition }}"
+            tabindex="0"
+          >
+            {{- "IF " | append: impact -}}
+          </span>
+        {% endif %}
         &nbsp;·&nbsp;
         <span class="citation-id">
           {{- citation.id | default: "[accepted]" -}}

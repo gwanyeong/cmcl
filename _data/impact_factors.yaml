@@ -1,0 +1,36 @@
+# Journal Impact Factors shown next to each publication.
+# Key = journal name exactly as it appears in citations.yaml "publisher".
+# Update once a year when the new JCR is released.
+
+edition: JCR 2026 (2025 JIF)
+
+journals:
+  Science: 47.3
+  Energy & Environmental Science: 30.5
+  Advanced Materials: 29.1
+  Advanced Energy Materials: 25.5
+  Advanced Functional Materials: 19.9
+  Nature Communications: 18.1
+  ACS Nano: 17.3
+  Nano Energy: 16.7
+  Journal of the American Chemical Society: 16.6
+  Advanced Science: 14.1
+  ACS Catalysis: 13.6
+  Environmental Science & Technology: 12.2
+  Small: 11.9
+  # not in the exported CSV yet (JIF < 11.0):
+  # ACS Applied Materials & Interfaces:
+  # Chemical Science:
+  # Chemistry of Materials:
+  # Electrochimica Acta:
+  # Frontiers in Energy Research:
+  # Inorganic Chemistry:
+  # Journal of Aerosol Science:
+  # Journal of Industrial and Engineering Chemistry:
+  # Journal of Materials Chemistry C:
+  # Journal of Power Sources:
+  # Nano Letters:
+  # Nanoscale:
+  # Physical Review B:
+  # Physical Review Materials:
+  # The Journal of Physical Chemistry C:
