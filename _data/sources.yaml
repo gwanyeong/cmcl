@@ -357,11 +357,11 @@
   image: images/publications/051_PRM_2026.png
   tags:
     - functional-semiconductor
-  - id: doi.org/10.1021/acs.nanolett.6c04005
+- id: doi:10.1021/acs.nanolett.6c04005
   image: images/publications/052_Nano_Lett_2026.png
   tags:
     - functional-semiconductor
-  - id: doi.org/10.1002/adma.75144
+- id: doi:10.1002/adma.75144
   image: images/publications/053_Adv_Mater_2026.png
   tags:
     - functional-semiconductor
