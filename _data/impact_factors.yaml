@@ -17,20 +17,20 @@ journals:
   Advanced Science: 14.1
   ACS Catalysis: 13.6
   Environmental Science & Technology: 12.2
-  Small: 11.9
-  # not in the exported CSV yet (JIF < 11.0):
-  # ACS Applied Materials & Interfaces:
-  # Chemical Science:
-  # Chemistry of Materials:
-  # Electrochimica Acta:
+  Small: 11.8
+  Nano Letters: 9.1
+  Journal of Power Sources: 8.4
+  Chemical Science: 8.1
+  ACS Applied Materials & Interfaces: 7.8
+  Chemistry of Materials: 7.1
+  Journal of Industrial and Engineering Chemistry: 7.1
+  Electrochimica Acta: 5.8
+  Nanoscale: 5.2
+  Journal of Materials Chemistry C: 5.1
+  Inorganic Chemistry: 4.6
+  Physical Review B: 3.9
+  Physical Review Materials: 3.6
+  The Journal of Physical Chemistry C: 3.4
+  Journal of Aerosol Science: 2.9
+  # not listed in JCR 2026:
   # Frontiers in Energy Research:
-  # Inorganic Chemistry:
-  # Journal of Aerosol Science:
-  # Journal of Industrial and Engineering Chemistry:
-  # Journal of Materials Chemistry C:
-  # Journal of Power Sources:
-  # Nano Letters:
-  # Nanoscale:
-  # Physical Review B:
-  # Physical Review Materials:
-  # The Journal of Physical Chemistry C:
