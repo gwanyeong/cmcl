@@ -48,8 +48,5 @@ B.S., School of Energy and Chemical Engineering, UNIST
 * **CCP2026**, XXXVII IUPAP Conference on Computational Physics, Invited Talk, Seoul, Korea **(2026.08)**
 * **대한화학회 인천지부 2026년 춘계 학술대회**, 초청 발표, 인천대학교 **(2026.05)**
 * **제148차 대한화학회 물리화학분과회 봄 심포지엄**, 초청 발표, 강원대학교 **(2026.02)**
-* **아주대학교 초청 세미나** **(2025.12)**
-* **고려대학교 초청 세미나** **(2025.12)**
-* **경상국립대학교 초청 세미나** (Zoom) **(2025.12)**
 * **The 6th IEEE UFFC Ferroschool**, Invited, Oak Ridge National Laboratory, TN, USA **(2025.08)**
 * **2023 MRS Spring Meeting**, Invited Talk & Session Chair, San Francisco, CA, USA **(2023.04)**
