@@ -81,13 +81,12 @@
             {{- "IF " | append: impact.jif -}}
           </span>
           {% if impact.top %}
-            &nbsp;·&nbsp;
             <span
-              class="citation-impact"
+              class="citation-rank"
               data-tooltip="{{ impact.category }} ({{ impact.rank }}), {{ site.data.impact_factors.edition }}"
               tabindex="0"
             >
-              {{- "Top " | append: impact.top | append: "%" -}}
+              {{- "(Top " | append: impact.top | append: "%)" -}}
             </span>
           {% endif %}
         {% endif %}
