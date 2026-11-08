@@ -42,7 +42,7 @@ B.S., School of Energy and Chemical Engineering, UNIST
 * **Full Scholarship in B.S. degree**, Korea Student Aid Foundation (KOSAF) **(2010-2013)**
 
 {% include section.html %}
-# Presentations/Seminars
+# Presentations
 * **한국화학공학회 추계 총회**, 신진연구자 심포지엄 초청 발표, 부산 BEXCO **(2026.10)**
 * **ICSST26**, The 13th International Conference on Separation Science and Technology, Invited Talk, Gyeongju, Korea **(2026.10)**
 * **CCP2026**, XXXVII IUPAP Conference on Computational Physics, Invited Talk, Seoul, Korea **(2026.08)**
@@ -51,5 +51,5 @@ B.S., School of Energy and Chemical Engineering, UNIST
 * **아주대학교 초청 세미나** **(2025.12)**
 * **고려대학교 초청 세미나** **(2025.12)**
 * **경상국립대학교 초청 세미나** (Zoom) **(2025.12)**
-* **The 6th IEEE UFFC Ferroschool**, Invited Talk, Oak Ridge National Laboratory, TN, USA **(2025.08)**
+* **The 6th IEEE UFFC Ferroschool**, Invited, Oak Ridge National Laboratory, TN, USA **(2025.08)**
 * **2023 MRS Spring Meeting**, Invited Talk & Session Chair, San Francisco, CA, USA **(2023.04)**
