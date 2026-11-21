@@ -146,6 +146,19 @@
   margin: 2px 0;
   line-height: 1.35;
 }
+.multiscale .method-row {
+  grid-auto-rows: 1fr;
+}
+.multiscale .method-row .method-card {
+  display: flex;
+  flex-direction: column;
+}
+.multiscale .method-row .method-card ul {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
 .multiscale .method-band-line,
 .multiscale .method-band-label {
   line-height: 1.4;
