@@ -68,8 +68,8 @@ Our research in catalysis aims to advance eco-friendly energy conversion and che
 {% capture content %}
   {%
   include figure.html
-  image="images/projects/morphological_and_protein_analysis.png"
-  caption="Garcia-Keller et al., Journal of Neuroscience 2020."
+  image="images/projects/functional_semiconductor.jpg"
+  caption=""
   width="400px"
 %}
 {% endcapture %}
@@ -80,5 +80,5 @@ Our research in catalysis aims to advance eco-friendly energy conversion and che
   flip=true
 %}
 
-Driven by the demand for next-generation optoelectronics and quantum devices, our research focuses on the discovery and design of advanced functional semiconductors. By integrating first-princiles calculations with physics modeling, we uncover the fundamental origins of emergent physical phenomena - encompassing novel electronic, optical, phononic, and topological properties - at the atomic level. Through these investigations, we aim to establish robust design principles that accelerate the developemnt of functional semiconductor for advanced sensing, photonic computing and quantum information technologies.
+Driven by the demand for next-generation optoelectronics and quantum devices, our research focuses on the discovery and design of advanced functional semiconductors. By integrating first-principles calculations with physics modeling, we uncover the fundamental origins of emergent physical phenomena - encompassing novel electronic, optical, phononic, and topological properties - at the atomic level. Through these investigations, we aim to establish robust design principles that accelerate the development of functional semiconductors for advanced sensing, photonic computing and quantum information technologies.
 {% include float.html clear=false %}
