@@ -8,8 +8,9 @@
 
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
+  width: 30%;
   aspect-ratio: 3/2;
+  background: #ffffff;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -42,7 +43,7 @@
   }
   .feature-image {
     width: 100%;
-    max-width: 400px;
+    max-width: 320px;
   }
 }
 
