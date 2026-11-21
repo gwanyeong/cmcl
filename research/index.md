@@ -26,8 +26,8 @@ Materials in real world are complicated &rarr; It cannot be described with singl
 {% capture content %}
   {%
   include figure.html
-  image="images/projects/confocal_microscopy.png"
-  caption="Garcia-Keller et al., Biological Psychiatry 2019."
+  image="images/projects/energy_materials.jpg"
+  caption=""
   width="400px"
 %}
 {% endcapture %}
@@ -37,7 +37,7 @@ Materials in real world are complicated &rarr; It cannot be described with singl
   content=content
   flip=true
 %}
-In the field of energy materials, our group is dedicated to advancing the frontier of energy storage by desigining core components for next-generation energy systems, such as post Li-ion batteries and supercapacitors. We employ advanced computational techniques to model complex electrochemical interfaces, focusing on the rational design of novel elctrolytes, electrode materials, functional membranes, and additives. Our ultimate goal is to elucidate fundamental mechanisms to guide the development of highly stable, safe, and efficient energy storage devices tailored for furture energy landscapes.
+In the field of energy materials, our group is dedicated to advancing the frontier of energy storage by designing core components for next-generation energy systems, such as post Li-ion batteries and supercapacitors. We employ advanced computational techniques to model complex electrochemical interfaces, focusing on the rational design of novel electrolytes, electrode materials, functional membranes, and additives. Our ultimate goal is to elucidate fundamental mechanisms to guide the development of highly stable, safe, and efficient energy storage devices tailored for future energy landscapes.
 
 {% include float.html clear=false %}
 
