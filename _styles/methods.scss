@@ -171,6 +171,23 @@ $ai: #ea7a1d;
     line-height: 1.35;
   }
 
+  // equal rows; the three items spread to fill each card
+  .method-row {
+    grid-auto-rows: 1fr;
+  }
+
+  .method-row .method-card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .method-row .method-card ul {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
   .method-band-line,
   .method-band-label {
     line-height: 1.4;

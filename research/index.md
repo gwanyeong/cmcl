@@ -28,7 +28,6 @@ Real-world materials are too complex to be described by a single modeling techni
         <li>Electronic structure</li>
         <li>Atomic energy</li>
         <li>Reaction pathways</li>
-        <li>Optical properties</li>
       </ul>
     </div>
     <div class="method-card">
