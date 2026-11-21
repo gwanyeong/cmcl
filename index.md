@@ -30,7 +30,7 @@ We use computational tools to understand and design materials for energy, cataly
 
 
 {% capture text %}
-We use computational tools to understand and design materials for energy, catalysis, and functional semiconductors.
+Explore our peer-reviewed publications on energy materials, catalysis, and functional semiconductors, many in close collaboration with experimental groups.
 {%
   include button.html
   link="publications"
