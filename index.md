@@ -22,7 +22,7 @@ We use computational tools to understand and design materials for energy, cataly
 {% endcapture %}
 {%
   include feature.html
-  image="images/research/gemini_1.png"
+  image="images/home/research.png"
   link="research"
   title="Research"
   text=text
@@ -42,7 +42,7 @@ Explore our peer-reviewed publications on energy materials, catalysis, and funct
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/publications.png"
   link="publications"
   title="Publications"
   flip=true
@@ -64,7 +64,7 @@ Meet the people who see the world through atoms and solve challenges through tea
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/team.png"
   link="team"
   title="Our Team"
   text=text
