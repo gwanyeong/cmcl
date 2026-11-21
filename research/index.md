@@ -11,11 +11,13 @@ nav:
 
 Real-world materials are too complex to be described by a single modeling technique. We combine first-principles calculations, molecular dynamics, Monte Carlo sampling, and continuum models, augmented by machine learning and data informatics, into computational (virtual) experiments that bridge the atomistic and continuum levels through modeled interactions. This lets us follow physico-chemical phenomena across time and length scales.
 
+<div class="multiscale" markdown="1">
+
 {%
   include figure.html
   image="images/multi-scale_diagram.png"
   caption=""
-  width="560px"
+  width="100%"
 %}
 
 <div class="method-ladder">
@@ -79,6 +81,8 @@ Real-world materials are too complex to be described by a single modeling techni
       </div>
     </div>
   </div>
+</div>
+
 </div>
 
 {% include float.html
