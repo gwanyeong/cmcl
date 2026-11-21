@@ -110,58 +110,72 @@ $ai: #ea7a1d;
   }
 }
 
-// side-by-side layout: diagram left, methods right
+.method-band-line {
+  margin: 4px 0 0;
+  text-align: left;
+  line-height: 1.45;
+
+  b {
+    color: #c2410c;
+  }
+}
+
+// side-by-side layout: diagram left, methods right (same height)
 .multiscale {
   display: grid;
   grid-template-columns: 44% 1fr;
   gap: 32px;
-  align-items: center;
+  align-items: stretch;
   margin: 30px 0 50px;
 
   .figure {
     margin: 0;
+    align-self: center;
   }
 
   .method-ladder {
     margin: 0;
-    gap: 14px;
-    font-size: 0.88em;
+    gap: 12px;
+    font-size: 0.85em;
+    justify-content: space-between;
   }
 
   .method-row {
     grid-template-columns: repeat(2, 1fr);
-    gap: 14px 26px;
+    gap: 12px 24px;
+    flex-grow: 1;
   }
 
-  // in the 2x2 grid only the left cards point right
   .method-row .method-card::after {
     display: none;
   }
 
   .method-row .method-card:nth-child(odd)::after {
     display: block;
-    right: -20px;
+    right: -19px;
   }
 
   .method-card {
-    padding: 10px 14px;
+    padding: 8px 12px;
+    border-top-width: 3px;
   }
 
   .method-card ul {
-    margin-top: 6px;
-    line-height: 1.45;
+    margin-top: 4px;
+    padding-left: 16px;
+    line-height: 1.35;
+  }
+
+  .method-name {
+    font-size: 1.05em;
   }
 
   .method-band {
-    padding: 10px 14px 14px;
+    padding: 8px 12px 10px;
   }
 
   .method-band-label {
-    margin-bottom: 8px;
-  }
-
-  .method-band-cards {
-    gap: 14px;
+    margin-bottom: 2px;
   }
 }
 

@@ -24,7 +24,6 @@ Real-world materials are too complex to be described by a single modeling techni
   <div class="method-row">
     <div class="method-card">
       <p class="method-name">DFT</p>
-      <p class="method-scale">Å · fs</p>
       <ul>
         <li>Electronic structure</li>
         <li>Atomic energy</li>
@@ -34,7 +33,6 @@ Real-world materials are too complex to be described by a single modeling techni
     </div>
     <div class="method-card">
       <p class="method-name">MD</p>
-      <p class="method-scale">nm · ns</p>
       <ul>
         <li>Finite-temperature dynamics</li>
         <li>Diffusion / transport</li>
@@ -43,7 +41,6 @@ Real-world materials are too complex to be described by a single modeling techni
     </div>
     <div class="method-card">
       <p class="method-name">MC</p>
-      <p class="method-scale">nm – µm · statistical</p>
       <ul>
         <li>Statistical sampling</li>
         <li>Phase diagrams</li>
@@ -52,7 +49,6 @@ Real-world materials are too complex to be described by a single modeling techni
     </div>
     <div class="method-card">
       <p class="method-name">Continuum physics</p>
-      <p class="method-scale">µm + · µs +</p>
       <ul>
         <li>Effective Hamiltonian</li>
         <li>Finite element modeling</li>
@@ -62,24 +58,8 @@ Real-world materials are too complex to be described by a single modeling techni
   </div>
   <div class="method-band">
     <p class="method-band-label">AI layer · across all scales</p>
-    <div class="method-band-cards">
-      <div class="method-card ai">
-        <p class="method-name">Machine learning</p>
-        <ul>
-          <li>Property prediction</li>
-          <li>Feature selection</li>
-          <li>Dimensionality reduction</li>
-        </ul>
-      </div>
-      <div class="method-card ai">
-        <p class="method-name">Data informatics</p>
-        <ul>
-          <li>Data mining</li>
-          <li>Descriptors</li>
-          <li>Screening</li>
-        </ul>
-      </div>
-    </div>
+    <p class="method-band-line"><b>Machine learning</b> · Property prediction · Feature selection · Dimensionality reduction</p>
+    <p class="method-band-line"><b>Data informatics</b> · Data mining · Descriptors · Screening</p>
   </div>
 </div>
 
