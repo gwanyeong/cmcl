@@ -13,8 +13,9 @@ $wrap: 800px;
 
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
+  width: 30%;
   aspect-ratio: 3 / 2;
+  background: #ffffff;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -48,6 +49,6 @@ $wrap: 800px;
 
   .feature-image {
     width: 100%;
-    max-width: calc($wrap / 2);
+    max-width: 320px;
   }
 }
