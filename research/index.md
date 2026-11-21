@@ -27,6 +27,7 @@ Materials in real world are complicated &rarr; It cannot be described with singl
   {%
   include figure.html
   image="images/projects/energy_materials.jpg"
+  class="framed"
   caption=""
   width="400px"
 %}
@@ -48,6 +49,7 @@ In the field of energy materials, our group is dedicated to advancing the fronti
   {%
   include figure.html
   image="images/projects/catalysis.jpg"
+  class="framed"
   caption=""
   width="400px"
 %}
@@ -69,6 +71,7 @@ Our research in catalysis aims to advance eco-friendly energy conversion and che
   {%
   include figure.html
   image="images/projects/functional_semiconductor.jpg"
+  class="framed"
   caption=""
   width="400px"
 %}

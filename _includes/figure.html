@@ -1,4 +1,4 @@
-<figure class="figure">
+<figure class="figure {{ include.class }}">
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
