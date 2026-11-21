@@ -42,14 +42,14 @@ In the field of energy materials, our group is dedicated to advancing the fronti
 {% include float.html clear=false %}
 
 
-### Catalysis	
+### Catalysis
 
 {% capture content %}
   {%
   include figure.html
-  image="images/projects/operant_conditioning.png"
+  image="images/projects/catalysis.jpg"
   caption=""
-  width="300px"
+  width="400px"
 %}
 {% endcapture %}
 
@@ -59,7 +59,9 @@ In the field of energy materials, our group is dedicated to advancing the fronti
   flip=false
 %}
 
-Our research in catalysis aims to advance eco-friendly energy conversion and chemical synthesis by identifying fundamental design principles for highly active, selective, and durable catalysts. By employing first-principles electronic structure calculations and data-driven informatics, we delve into the thermodynamics and kinetics at the electrochemical interface. This computational approach allows us to systematically identify active sites, elucidate intricate reaction pathways, and uncover the fundamental origins of catalytic performance, accelerating the transition from empirical discovery to the rational design of optimal catalysts. Our current research scope encompasses the chlorine evolution reaction, seawater splitting, and redox reactions for water electrolyzers and fuel cells. 
+Our research in catalysis aims to advance eco-friendly energy conversion and chemical synthesis by identifying fundamental design principles for highly active, selective, and durable catalysts. By employing first-principles electronic structure calculations and data-driven informatics, we delve into the thermodynamics and kinetics at the electrochemical interface. This computational approach allows us to systematically identify active sites, elucidate intricate reaction pathways, and uncover the fundamental origins of catalytic performance, accelerating the transition from empirical discovery to the rational design of optimal catalysts. Our current research scope encompasses the chlorine evolution reaction, seawater splitting, and redox reactions for water electrolyzers and fuel cells.
+
+{% include float.html clear=false %}
 
 ### Functional semiconductor
 
