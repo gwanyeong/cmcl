@@ -8,13 +8,78 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 ### Multi-scale modeling & simulation
-Materials in real world are complicated &rarr; It cannot be described with single modeling technique!
+
+Real-world materials are too complex to be described by a single modeling technique. We combine first-principles calculations, molecular dynamics, Monte Carlo sampling, and continuum models, augmented by machine learning and data informatics, into computational (virtual) experiments that bridge the atomistic and continuum levels through modeled interactions. This lets us follow physico-chemical phenomena across time and length scales.
+
 {%
   include figure.html
-  image="images/multi-scale_simulation.png"
+  image="images/multi-scale_diagram.png"
   caption=""
-  width="100%"
+  width="560px"
 %}
+
+<div class="method-ladder">
+  <div class="method-row">
+    <div class="method-card">
+      <p class="method-name">DFT</p>
+      <p class="method-scale">Å · fs</p>
+      <ul>
+        <li>Electronic structure</li>
+        <li>Atomic energy</li>
+        <li>Reaction pathways</li>
+        <li>Optical properties</li>
+      </ul>
+    </div>
+    <div class="method-card">
+      <p class="method-name">MD</p>
+      <p class="method-scale">nm · ns</p>
+      <ul>
+        <li>Finite-temperature dynamics</li>
+        <li>Diffusion / transport</li>
+        <li>Phase transitions</li>
+      </ul>
+    </div>
+    <div class="method-card">
+      <p class="method-name">MC</p>
+      <p class="method-scale">nm – µm · statistical</p>
+      <ul>
+        <li>Statistical sampling</li>
+        <li>Phase diagrams</li>
+        <li>Dipole ordering</li>
+      </ul>
+    </div>
+    <div class="method-card">
+      <p class="method-name">Continuum physics</p>
+      <p class="method-scale">µm + · µs +</p>
+      <ul>
+        <li>Effective Hamiltonian</li>
+        <li>Finite element modeling</li>
+        <li>Microkinetic modeling</li>
+      </ul>
+    </div>
+  </div>
+  <div class="method-band">
+    <p class="method-band-label">AI layer · across all scales</p>
+    <div class="method-band-cards">
+      <div class="method-card ai">
+        <p class="method-name">Machine learning</p>
+        <ul>
+          <li>Property prediction</li>
+          <li>Feature selection</li>
+          <li>Dimensionality reduction</li>
+        </ul>
+      </div>
+      <div class="method-card ai">
+        <p class="method-name">Data informatics</p>
+        <ul>
+          <li>Data mining</li>
+          <li>Descriptors</li>
+          <li>Screening</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% include float.html
    clear = true
