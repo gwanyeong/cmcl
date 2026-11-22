@@ -168,6 +168,10 @@
     updateInfoBox(query, x, n);
     updateTags(query);
     highlightMatches(parts);
+    // let pages react to the result (e.g. publications list layout and counts)
+    window.dispatchEvent(
+      new CustomEvent("searchdone", { detail: { query, x, n, tags: parts.tags } })
+    );
   };
 
   // update url based on query
