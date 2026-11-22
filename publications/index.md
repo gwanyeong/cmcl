@@ -12,7 +12,7 @@ nav:
 **{{ pubs.size }} peer-reviewed papers since {{ pubs.first.date | date: "%Y" }}** · browse by topic:
 {:.center}
 
-{% include tags.html tags="battery, catalysis, functional-semiconductor, functional-materials, sensor" link="publications" %}
+{% include tags.html tags="battery, catalysis, functional-semiconductor, functional-materials" link="publications" %}
 
 {% include button.html icon="fa-brands fa-google" text="Full publication records" link="https://scholar.google.com/citations?user=kThOHD4AAAAJ&hl=en" %}
 
