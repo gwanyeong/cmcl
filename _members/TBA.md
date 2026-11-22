@@ -1,8 +1,6 @@
 ---
 name: Join Us!
-image: images/photo.jpg
-role: phd
-group: alum
+image: images/join-us.png
+role: open-position
+redirect_to: /contact/
 ---
-
-

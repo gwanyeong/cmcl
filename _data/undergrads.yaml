@@ -1,0 +1,18 @@
+# Undergraduate researchers shown on the Team page (square photos, no personal pages).
+# To add someone: put a photo in images/team/ (about 800 px on the long side) and add an entry.
+
+- name: Hwang Jin Hyeon
+  image: images/team/HJH.jpg
+  since: 2026.07
+
+- name: Lee Yun Ju
+  image: images/team/LYJ.jpg
+  since: 2026.07
+
+- name: Son Chae Hyeok
+  image: images/team/SCH.jpg
+  since: 2026.07
+
+- name: Kim Tae Wan
+  image: images/team/KTW.jpg
+  since: 2026.07
