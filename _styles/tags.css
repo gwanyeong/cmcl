@@ -33,11 +33,6 @@
   color: white;
 }
 
-.tag[data-keyword=sensor] {
-  background: #28a745;
-  color: white;
-}
-
 .tag[data-keyword=battery] {
   background: #fd7e14;
   color: white;
@@ -49,7 +44,7 @@
 }
 
 .tag[data-keyword=functional-materials] {
-  background: #6f42c1;
+  background: #28a745;
   color: white;
 }
 
