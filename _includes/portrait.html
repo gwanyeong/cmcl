@@ -12,7 +12,7 @@
 <div class="portrait-wrapper">
   <a
     {% if page.slug != member.slug %}
-      href="{{ member.card-link | default: member.url | relative_url | uri_escape }}"
+      href="{{ member.link | default: member.url | relative_url | uri_escape }}"
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
