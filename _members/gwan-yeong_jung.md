@@ -13,7 +13,17 @@ links:
   google-scholar: https://scholar.google.com/citations?user=kThOHD4AAAAJ&hl=en
 ---
 
-Dr. Gwan Yeong Jung is an Assistant Professor in the Department of Chemistry at Incheon National University. He received his Ph.D. in Chemical Engineering from [UNIST](https://www.unist.ac.kr/) in 2020 under the supervision of [Prof. Sang Kyu Kwak](http://kmsl.korea.ac.kr/), where he specialized in modeling the electrochemical interfaces using multi-scale simulations. Prior to joining INU, he worked as a postdoctoral researcher at the [Washington University in St. Louis](https://washu.edu/), working with [Prof. Rohan Mishra](https://mcube.wustl.edu/). His research at CMCL is dedicated to the rational design and optimization of advanced materials with improved properties and emergent functionalities, bridging the gap between atomistic theory and macroscopic perforamnce through multi-scale modeling and simulations.
+Dr. Gwan Yeong Jung is an Assistant Professor in the Department of Chemistry at Incheon National University. He received his Ph.D. in Chemical Engineering from [UNIST](https://www.unist.ac.kr/) in 2020 under the supervision of [Prof. Sang Kyu Kwak](http://kmsl.korea.ac.kr/), where he specialized in modeling the electrochemical interfaces using multi-scale simulations. Prior to joining INU, he worked as a postdoctoral researcher at the [Washington University in St. Louis](https://washu.edu/), working with [Prof. Rohan Mishra](https://mcube.wustl.edu/). His research at CMCL is dedicated to the rational design and optimization of advanced materials with improved properties and emergent functionalities, bridging the gap between atomistic theory and macroscopic performance through multi-scale modeling and simulations.
+
+{% assign cv = "files/CV_Gwan_Yeong_Jung.pdf" | file_exists %}
+{% if cv %}
+{%
+  include button.html
+  icon="fa-solid fa-file-arrow-down"
+  text="Download CV"
+  link=cv
+%}
+{% endif %}
 
 
 {% include section.html%}
@@ -28,7 +38,7 @@ Postdoc, Department of Energy and Chemical Engineering, UNIST **(Advisor: [Prof.
 {% include section.html%}
 # Education
 **2014.03 ~ 2020.02**  
-Ph.D, Department of Chemical Engineering, UNIST **(Advisor: [Prof. Sang Kyu Kwak](http://kmsl.korea.ac.kr/))**  
+Ph.D., Department of Chemical Engineering, UNIST **(Advisor: [Prof. Sang Kyu Kwak](http://kmsl.korea.ac.kr/))**  
 **2010.03 ~ 2014.02**  
 B.S., School of Energy and Chemical Engineering, UNIST  
 
