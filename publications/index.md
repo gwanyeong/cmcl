@@ -47,25 +47,25 @@ nav:
 <div class="cover-wrapper">
   <div class="cover-scroll">
     <div class="cover-item">
-      {% include figure.html image="images/cover/EES_2019.png" width="400px" caption="Energy Environ. Sci. 2019" link="https://doi.org/gj7d28" %}
+      {% include figure.html image="images/cover/EES_2019.png" width="400px" link="https://doi.org/gj7d28" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/AM_2015.png" width="400px" caption="Adv. Mater. 2015" link="https://doi.org/f2x6gr" %}
+      {% include figure.html image="images/cover/AM_2015.png" width="400px" link="https://doi.org/f2x6gr" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/AEM_2020.png" width="400px" caption="Adv. Energy Mater. 2020" link="https://doi.org/ggrgrk" %}
+      {% include figure.html image="images/cover/AEM_2020.png" width="400px" link="https://doi.org/ggrgrk" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/AFM_2016.png" width="400px" caption="Adv. Funct. Mater. 2016" link="https://doi.org/f3rc7q" %}
+      {% include figure.html image="images/cover/AFM_2016.png" width="400px" link="https://doi.org/f3rc7q" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/NL_2019.png" width="400px" caption="Nano Lett. 2019" link="https://doi.org/hbzpq4" %}
+      {% include figure.html image="images/cover/NL_2019.png" width="400px" link="https://doi.org/hbzpq4" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/AFM_2019.png" width="400px" caption="Adv. Funct. Mater. 2019" link="https://doi.org/gfv5cf" %}
+      {% include figure.html image="images/cover/AFM_2019.png" width="400px" link="https://doi.org/gfv5cf" %}
     </div>
     <div class="cover-item">
-      {% include figure.html image="images/cover/Chem_Sci_2020.png" width="400px" caption="Chem. Sci. 2020" link="https://doi.org/ghm7qh" %}
+      {% include figure.html image="images/cover/Chem_Sci_2020.png" width="400px" link="https://doi.org/ghm7qh" %}
     </div>
     
   </div>
