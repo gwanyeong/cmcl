@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-## 찾아오시는 길
+## Visit Us
 
 - **교수실:** 인천대학교 송도캠퍼스 5호관 A동 449호
 - **계산소재화학 연구실:** 인천대학교 송도캠퍼스 5호관 C동 429호
@@ -17,7 +17,7 @@ nav:
 <iframe
   class="contact-map"
   title="인천대학교 자연과학대학 위치"
-  src="https://maps.google.com/maps?q=%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90%20%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99&z=16&output=embed"
+  src="https://maps.google.com/maps?q=37.375588,126.634609&z=17&output=embed"
   loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"
   allowfullscreen
@@ -33,8 +33,9 @@ nav:
 
 {% include section.html %}
 
-## 연락처
+## Get in Touch
 
+<div class="contact-buttons">
 {%
   include button.html
   type="email"
@@ -46,13 +47,6 @@ nav:
   type="phone"
   text="(032) 835-8232"
   link="+82-32-835-8232"
-%}
-{%
-  include button.html
-  type="address"
-  text="Google 지도에서 보기"
-  tooltip="Google 지도에서 인천대학교 자연과학대학 위치 보기"
-  link="https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90%20%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99"
 %}
 {%
   include button.html
@@ -72,3 +66,4 @@ nav:
   text="GitHub"
   link="https://github.com/gwanyeong"
 %}
+</div>

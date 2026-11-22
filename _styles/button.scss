@@ -49,3 +49,18 @@ button {
 .button[data-flip] {
   flex-direction: row-reverse;
 }
+
+.contact-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .button {
+    margin: 4px;
+    padding: 8px 12px;
+  }
+
+  @media (min-width: 760px) {
+    flex-wrap: nowrap;
+  }
+}
