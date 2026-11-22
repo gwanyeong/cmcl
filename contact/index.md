@@ -16,8 +16,8 @@ nav:
 
 <iframe
   class="contact-map"
-  title="인천대학교 5호관 위치"
-  src="https://maps.google.com/maps?q=%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90%205%ED%98%B8%EA%B4%80&z=16&output=embed"
+  title="인천대학교 송도캠퍼스 위치"
+  src="https://maps.google.com/maps?q=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EB%A1%9C%20119%20%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90&z=16&output=embed"
   loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"
   allowfullscreen
@@ -58,8 +58,8 @@ nav:
   include button.html
   type="address"
   text="Google 지도에서 보기"
-  tooltip="Google 지도에서 인천대학교 5호관 위치 보기"
-  link="https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90+5%ED%98%B8%EA%B4%80"
+  tooltip="Google 지도에서 인천대학교 송도캠퍼스 위치 보기"
+  link="https://www.google.com/maps/search/?api=1&query=%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%97%B0%EC%88%98%EA%B5%AC%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EB%A1%9C%20119%20%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90"
 %}
 {%
   include button.html
